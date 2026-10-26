@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "origin": "http://127.0.0.1:60071",
+  "htmlPages": 1,
+  "indexableRoutes": 0,
+  "locales": [
+    "tr",
+    "en",
+    "de",
+    "fr",
+    "es",
+    "es-MX",
+    "pt-BR",
+    "it",
+    "ru",
+    "ko",
+    "zh-CN",
+    "zh-TW"
+  ],
+  "spaFallback": "200.html"
+}
