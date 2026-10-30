@@ -1,8 +1,8 @@
 {
-  "version": 1,
+  "version": 2,
   "origin": "https://wowforeverpath.com",
-  "htmlPages": 1,
-  "indexableRoutes": 0,
+  "htmlPages": 12560,
+  "indexableRoutes": 11460,
   "locales": [
     "tr",
     "en",
@@ -17,5 +17,6 @@
     "zh-CN",
     "zh-TW"
   ],
+  "layout": "directory-index",
   "spaFallback": "200.html"
 }
