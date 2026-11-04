@@ -14,11 +14,13 @@
 <url><loc>https://wowforeverpath.com/de/addons</loc></url>
 <url><loc>https://wowforeverpath.com/de/beta</loc></url>
 <url><loc>https://wowforeverpath.com/de/beta/builds/1</loc></url>
+<url><loc>https://wowforeverpath.com/de/beta/builds/10</loc></url>
 <url><loc>https://wowforeverpath.com/de/beta/builds/4</loc></url>
 <url><loc>https://wowforeverpath.com/de/beta/builds/5</loc></url>
 <url><loc>https://wowforeverpath.com/de/beta/builds/6</loc></url>
 <url><loc>https://wowforeverpath.com/de/beta/builds/7</loc></url>
 <url><loc>https://wowforeverpath.com/de/beta/builds/8</loc></url>
+<url><loc>https://wowforeverpath.com/de/beta/builds/9</loc></url>
 <url><loc>https://wowforeverpath.com/de/books</loc></url>
 <url><loc>https://wowforeverpath.com/de/changes/druid</loc></url>
 <url><loc>https://wowforeverpath.com/de/changes/hunter</loc></url>
@@ -317,6 +319,7 @@
 <url><loc>https://wowforeverpath.com/de/quests/Al'Aketh%20Thugs</loc></url>
 <url><loc>https://wowforeverpath.com/de/quests/An%20Alarming%20Request</loc></url>
 <url><loc>https://wowforeverpath.com/de/quests/An%20Ancient%20Grudge</loc></url>
+<url><loc>https://wowforeverpath.com/de/quests/Arugal's%20Folly%20(5)</loc></url>
 <url><loc>https://wowforeverpath.com/de/quests/As%20Above,%20So%20Below</loc></url>
 <url><loc>https://wowforeverpath.com/de/quests/At%20Home%20in%20the%20Shadows</loc></url>
 <url><loc>https://wowforeverpath.com/de/quests/Bandarion%20Keep%20(quest)</loc></url>
@@ -340,6 +343,7 @@
 <url><loc>https://wowforeverpath.com/de/quests/Destruction%20in%20Deadmines%20(2)</loc></url>
 <url><loc>https://wowforeverpath.com/de/quests/Detonation%20at%20a%20Distance</loc></url>
 <url><loc>https://wowforeverpath.com/de/quests/Detonation%20at%20a%20Distance%20(2)</loc></url>
+<url><loc>https://wowforeverpath.com/de/quests/Diplomatic%20Incident</loc></url>
 <url><loc>https://wowforeverpath.com/de/quests/Discipline%20(Forever)</loc></url>
 <url><loc>https://wowforeverpath.com/de/quests/Downstream</loc></url>
 <url><loc>https://wowforeverpath.com/de/quests/Dragonmaw%20Rumors</loc></url>
@@ -368,6 +372,7 @@
 <url><loc>https://wowforeverpath.com/de/quests/Horrors%20in%20the%20Highland</loc></url>
 <url><loc>https://wowforeverpath.com/de/quests/Important%20Heirlooms</loc></url>
 <url><loc>https://wowforeverpath.com/de/quests/Infestation%20Investigation</loc></url>
+<url><loc>https://wowforeverpath.com/de/quests/Into%20Fenris%20Keep</loc></url>
 <url><loc>https://wowforeverpath.com/de/quests/Key%20to%20the%20City%20(Forever)</loc></url>
 <url><loc>https://wowforeverpath.com/de/quests/Legging%20It</loc></url>
 <url><loc>https://wowforeverpath.com/de/quests/Leonid's%20Letter</loc></url>
@@ -375,6 +380,7 @@
 <url><loc>https://wowforeverpath.com/de/quests/Lost%20Relic%20Carry</loc></url>
 <url><loc>https://wowforeverpath.com/de/quests/Lost%20in%20the%20Shadows</loc></url>
 <url><loc>https://wowforeverpath.com/de/quests/Lost%20in%20the%20Thicket%20Things</loc></url>
+<url><loc>https://wowforeverpath.com/de/quests/Lumina%20Windsinger%20(quest)</loc></url>
 <url><loc>https://wowforeverpath.com/de/quests/Making%20Repairs%20(Forever)</loc></url>
 <url><loc>https://wowforeverpath.com/de/quests/Meal%20Appeal</loc></url>
 <url><loc>https://wowforeverpath.com/de/quests/Moonbrook%20Espionage</loc></url>
@@ -437,6 +443,7 @@
 <url><loc>https://wowforeverpath.com/de/quests/The%20Unsent%20Letter</loc></url>
 <url><loc>https://wowforeverpath.com/de/quests/The%20Warrior's%20Path</loc></url>
 <url><loc>https://wowforeverpath.com/de/quests/The%20Way%20of%20the%20Hunter</loc></url>
+<url><loc>https://wowforeverpath.com/de/quests/The%20Windshaper's%20Wrath</loc></url>
 <url><loc>https://wowforeverpath.com/de/quests/The%20Wrath%20of%20Rath'mael</loc></url>
 <url><loc>https://wowforeverpath.com/de/quests/This%20Fruit%20Could%20Bite%20Back</loc></url>
 <url><loc>https://wowforeverpath.com/de/quests/Thundering%20Hearts</loc></url>
@@ -458,9 +465,14 @@
 <url><loc>https://wowforeverpath.com/de/quests/Watching%20the%20Roads</loc></url>
 <url><loc>https://wowforeverpath.com/de/quests/Wayward%20Weapons</loc></url>
 <url><loc>https://wowforeverpath.com/de/quests/Welcome!%20(Thendal%20Grove)</loc></url>
+<url><loc>https://wowforeverpath.com/de/quests/What%20Comes%20Next%20(Alliance)</loc></url>
+<url><loc>https://wowforeverpath.com/de/quests/What%20Comes%20Next%20(Horde)</loc></url>
+<url><loc>https://wowforeverpath.com/de/quests/Whispering%20Horror%20Residue%20(quest)</loc></url>
 <url><loc>https://wowforeverpath.com/de/quests/Whuut's%20the%20Rush</loc></url>
 <url><loc>https://wowforeverpath.com/de/quests/Wild%20Eyes</loc></url>
+<url><loc>https://wowforeverpath.com/de/quests/Wrongly%20Blamed,%20Justly%20Corrected</loc></url>
 <url><loc>https://wowforeverpath.com/de/quests/Yelmak's%20Medley</loc></url>
+<url><loc>https://wowforeverpath.com/de/quests/Your%20Package%20Has%20Arrived</loc></url>
 <url><loc>https://wowforeverpath.com/de/races</loc></url>
 <url><loc>https://wowforeverpath.com/de/races/dwarf</loc></url>
 <url><loc>https://wowforeverpath.com/de/races/gnome</loc></url>
@@ -974,11 +986,13 @@
 <url><loc>https://wowforeverpath.com/en/addons</loc></url>
 <url><loc>https://wowforeverpath.com/en/beta</loc></url>
 <url><loc>https://wowforeverpath.com/en/beta/builds/1</loc></url>
+<url><loc>https://wowforeverpath.com/en/beta/builds/10</loc></url>
 <url><loc>https://wowforeverpath.com/en/beta/builds/4</loc></url>
 <url><loc>https://wowforeverpath.com/en/beta/builds/5</loc></url>
 <url><loc>https://wowforeverpath.com/en/beta/builds/6</loc></url>
 <url><loc>https://wowforeverpath.com/en/beta/builds/7</loc></url>
 <url><loc>https://wowforeverpath.com/en/beta/builds/8</loc></url>
+<url><loc>https://wowforeverpath.com/en/beta/builds/9</loc></url>
 <url><loc>https://wowforeverpath.com/en/books</loc></url>
 <url><loc>https://wowforeverpath.com/en/changes/druid</loc></url>
 <url><loc>https://wowforeverpath.com/en/changes/hunter</loc></url>
@@ -1277,6 +1291,7 @@
 <url><loc>https://wowforeverpath.com/en/quests/Al'Aketh%20Thugs</loc></url>
 <url><loc>https://wowforeverpath.com/en/quests/An%20Alarming%20Request</loc></url>
 <url><loc>https://wowforeverpath.com/en/quests/An%20Ancient%20Grudge</loc></url>
+<url><loc>https://wowforeverpath.com/en/quests/Arugal's%20Folly%20(5)</loc></url>
 <url><loc>https://wowforeverpath.com/en/quests/As%20Above,%20So%20Below</loc></url>
 <url><loc>https://wowforeverpath.com/en/quests/At%20Home%20in%20the%20Shadows</loc></url>
 <url><loc>https://wowforeverpath.com/en/quests/Bandarion%20Keep%20(quest)</loc></url>
@@ -1300,6 +1315,7 @@
 <url><loc>https://wowforeverpath.com/en/quests/Destruction%20in%20Deadmines%20(2)</loc></url>
 <url><loc>https://wowforeverpath.com/en/quests/Detonation%20at%20a%20Distance</loc></url>
 <url><loc>https://wowforeverpath.com/en/quests/Detonation%20at%20a%20Distance%20(2)</loc></url>
+<url><loc>https://wowforeverpath.com/en/quests/Diplomatic%20Incident</loc></url>
 <url><loc>https://wowforeverpath.com/en/quests/Discipline%20(Forever)</loc></url>
 <url><loc>https://wowforeverpath.com/en/quests/Downstream</loc></url>
 <url><loc>https://wowforeverpath.com/en/quests/Dragonmaw%20Rumors</loc></url>
@@ -1328,6 +1344,7 @@
 <url><loc>https://wowforeverpath.com/en/quests/Horrors%20in%20the%20Highland</loc></url>
 <url><loc>https://wowforeverpath.com/en/quests/Important%20Heirlooms</loc></url>
 <url><loc>https://wowforeverpath.com/en/quests/Infestation%20Investigation</loc></url>
+<url><loc>https://wowforeverpath.com/en/quests/Into%20Fenris%20Keep</loc></url>
 <url><loc>https://wowforeverpath.com/en/quests/Key%20to%20the%20City%20(Forever)</loc></url>
 <url><loc>https://wowforeverpath.com/en/quests/Legging%20It</loc></url>
 <url><loc>https://wowforeverpath.com/en/quests/Leonid's%20Letter</loc></url>
@@ -1335,6 +1352,7 @@
 <url><loc>https://wowforeverpath.com/en/quests/Lost%20Relic%20Carry</loc></url>
 <url><loc>https://wowforeverpath.com/en/quests/Lost%20in%20the%20Shadows</loc></url>
 <url><loc>https://wowforeverpath.com/en/quests/Lost%20in%20the%20Thicket%20Things</loc></url>
+<url><loc>https://wowforeverpath.com/en/quests/Lumina%20Windsinger%20(quest)</loc></url>
 <url><loc>https://wowforeverpath.com/en/quests/Making%20Repairs%20(Forever)</loc></url>
 <url><loc>https://wowforeverpath.com/en/quests/Meal%20Appeal</loc></url>
 <url><loc>https://wowforeverpath.com/en/quests/Moonbrook%20Espionage</loc></url>
@@ -1397,6 +1415,7 @@
 <url><loc>https://wowforeverpath.com/en/quests/The%20Unsent%20Letter</loc></url>
 <url><loc>https://wowforeverpath.com/en/quests/The%20Warrior's%20Path</loc></url>
 <url><loc>https://wowforeverpath.com/en/quests/The%20Way%20of%20the%20Hunter</loc></url>
+<url><loc>https://wowforeverpath.com/en/quests/The%20Windshaper's%20Wrath</loc></url>
 <url><loc>https://wowforeverpath.com/en/quests/The%20Wrath%20of%20Rath'mael</loc></url>
 <url><loc>https://wowforeverpath.com/en/quests/This%20Fruit%20Could%20Bite%20Back</loc></url>
 <url><loc>https://wowforeverpath.com/en/quests/Thundering%20Hearts</loc></url>
@@ -1418,9 +1437,14 @@
 <url><loc>https://wowforeverpath.com/en/quests/Watching%20the%20Roads</loc></url>
 <url><loc>https://wowforeverpath.com/en/quests/Wayward%20Weapons</loc></url>
 <url><loc>https://wowforeverpath.com/en/quests/Welcome!%20(Thendal%20Grove)</loc></url>
+<url><loc>https://wowforeverpath.com/en/quests/What%20Comes%20Next%20(Alliance)</loc></url>
+<url><loc>https://wowforeverpath.com/en/quests/What%20Comes%20Next%20(Horde)</loc></url>
+<url><loc>https://wowforeverpath.com/en/quests/Whispering%20Horror%20Residue%20(quest)</loc></url>
 <url><loc>https://wowforeverpath.com/en/quests/Whuut's%20the%20Rush</loc></url>
 <url><loc>https://wowforeverpath.com/en/quests/Wild%20Eyes</loc></url>
+<url><loc>https://wowforeverpath.com/en/quests/Wrongly%20Blamed,%20Justly%20Corrected</loc></url>
 <url><loc>https://wowforeverpath.com/en/quests/Yelmak's%20Medley</loc></url>
+<url><loc>https://wowforeverpath.com/en/quests/Your%20Package%20Has%20Arrived</loc></url>
 <url><loc>https://wowforeverpath.com/en/races</loc></url>
 <url><loc>https://wowforeverpath.com/en/races/dwarf</loc></url>
 <url><loc>https://wowforeverpath.com/en/races/gnome</loc></url>
@@ -1935,11 +1959,13 @@
 <url><loc>https://wowforeverpath.com/es-MX/addons</loc></url>
 <url><loc>https://wowforeverpath.com/es-MX/beta</loc></url>
 <url><loc>https://wowforeverpath.com/es-MX/beta/builds/1</loc></url>
+<url><loc>https://wowforeverpath.com/es-MX/beta/builds/10</loc></url>
 <url><loc>https://wowforeverpath.com/es-MX/beta/builds/4</loc></url>
 <url><loc>https://wowforeverpath.com/es-MX/beta/builds/5</loc></url>
 <url><loc>https://wowforeverpath.com/es-MX/beta/builds/6</loc></url>
 <url><loc>https://wowforeverpath.com/es-MX/beta/builds/7</loc></url>
 <url><loc>https://wowforeverpath.com/es-MX/beta/builds/8</loc></url>
+<url><loc>https://wowforeverpath.com/es-MX/beta/builds/9</loc></url>
 <url><loc>https://wowforeverpath.com/es-MX/books</loc></url>
 <url><loc>https://wowforeverpath.com/es-MX/changes/druid</loc></url>
 <url><loc>https://wowforeverpath.com/es-MX/changes/hunter</loc></url>
@@ -2238,6 +2264,7 @@
 <url><loc>https://wowforeverpath.com/es-MX/quests/Al'Aketh%20Thugs</loc></url>
 <url><loc>https://wowforeverpath.com/es-MX/quests/An%20Alarming%20Request</loc></url>
 <url><loc>https://wowforeverpath.com/es-MX/quests/An%20Ancient%20Grudge</loc></url>
+<url><loc>https://wowforeverpath.com/es-MX/quests/Arugal's%20Folly%20(5)</loc></url>
 <url><loc>https://wowforeverpath.com/es-MX/quests/As%20Above,%20So%20Below</loc></url>
 <url><loc>https://wowforeverpath.com/es-MX/quests/At%20Home%20in%20the%20Shadows</loc></url>
 <url><loc>https://wowforeverpath.com/es-MX/quests/Bandarion%20Keep%20(quest)</loc></url>
@@ -2261,6 +2288,7 @@
 <url><loc>https://wowforeverpath.com/es-MX/quests/Destruction%20in%20Deadmines%20(2)</loc></url>
 <url><loc>https://wowforeverpath.com/es-MX/quests/Detonation%20at%20a%20Distance</loc></url>
 <url><loc>https://wowforeverpath.com/es-MX/quests/Detonation%20at%20a%20Distance%20(2)</loc></url>
+<url><loc>https://wowforeverpath.com/es-MX/quests/Diplomatic%20Incident</loc></url>
 <url><loc>https://wowforeverpath.com/es-MX/quests/Discipline%20(Forever)</loc></url>
 <url><loc>https://wowforeverpath.com/es-MX/quests/Downstream</loc></url>
 <url><loc>https://wowforeverpath.com/es-MX/quests/Dragonmaw%20Rumors</loc></url>
@@ -2289,6 +2317,7 @@
 <url><loc>https://wowforeverpath.com/es-MX/quests/Horrors%20in%20the%20Highland</loc></url>
 <url><loc>https://wowforeverpath.com/es-MX/quests/Important%20Heirlooms</loc></url>
 <url><loc>https://wowforeverpath.com/es-MX/quests/Infestation%20Investigation</loc></url>
+<url><loc>https://wowforeverpath.com/es-MX/quests/Into%20Fenris%20Keep</loc></url>
 <url><loc>https://wowforeverpath.com/es-MX/quests/Key%20to%20the%20City%20(Forever)</loc></url>
 <url><loc>https://wowforeverpath.com/es-MX/quests/Legging%20It</loc></url>
 <url><loc>https://wowforeverpath.com/es-MX/quests/Leonid's%20Letter</loc></url>
@@ -2296,6 +2325,7 @@
 <url><loc>https://wowforeverpath.com/es-MX/quests/Lost%20Relic%20Carry</loc></url>
 <url><loc>https://wowforeverpath.com/es-MX/quests/Lost%20in%20the%20Shadows</loc></url>
 <url><loc>https://wowforeverpath.com/es-MX/quests/Lost%20in%20the%20Thicket%20Things</loc></url>
+<url><loc>https://wowforeverpath.com/es-MX/quests/Lumina%20Windsinger%20(quest)</loc></url>
 <url><loc>https://wowforeverpath.com/es-MX/quests/Making%20Repairs%20(Forever)</loc></url>
 <url><loc>https://wowforeverpath.com/es-MX/quests/Meal%20Appeal</loc></url>
 <url><loc>https://wowforeverpath.com/es-MX/quests/Moonbrook%20Espionage</loc></url>
@@ -2358,6 +2388,7 @@
 <url><loc>https://wowforeverpath.com/es-MX/quests/The%20Unsent%20Letter</loc></url>
 <url><loc>https://wowforeverpath.com/es-MX/quests/The%20Warrior's%20Path</loc></url>
 <url><loc>https://wowforeverpath.com/es-MX/quests/The%20Way%20of%20the%20Hunter</loc></url>
+<url><loc>https://wowforeverpath.com/es-MX/quests/The%20Windshaper's%20Wrath</loc></url>
 <url><loc>https://wowforeverpath.com/es-MX/quests/The%20Wrath%20of%20Rath'mael</loc></url>
 <url><loc>https://wowforeverpath.com/es-MX/quests/This%20Fruit%20Could%20Bite%20Back</loc></url>
 <url><loc>https://wowforeverpath.com/es-MX/quests/Thundering%20Hearts</loc></url>
@@ -2379,9 +2410,14 @@
 <url><loc>https://wowforeverpath.com/es-MX/quests/Watching%20the%20Roads</loc></url>
 <url><loc>https://wowforeverpath.com/es-MX/quests/Wayward%20Weapons</loc></url>
 <url><loc>https://wowforeverpath.com/es-MX/quests/Welcome!%20(Thendal%20Grove)</loc></url>
+<url><loc>https://wowforeverpath.com/es-MX/quests/What%20Comes%20Next%20(Alliance)</loc></url>
+<url><loc>https://wowforeverpath.com/es-MX/quests/What%20Comes%20Next%20(Horde)</loc></url>
+<url><loc>https://wowforeverpath.com/es-MX/quests/Whispering%20Horror%20Residue%20(quest)</loc></url>
 <url><loc>https://wowforeverpath.com/es-MX/quests/Whuut's%20the%20Rush</loc></url>
 <url><loc>https://wowforeverpath.com/es-MX/quests/Wild%20Eyes</loc></url>
+<url><loc>https://wowforeverpath.com/es-MX/quests/Wrongly%20Blamed,%20Justly%20Corrected</loc></url>
 <url><loc>https://wowforeverpath.com/es-MX/quests/Yelmak's%20Medley</loc></url>
+<url><loc>https://wowforeverpath.com/es-MX/quests/Your%20Package%20Has%20Arrived</loc></url>
 <url><loc>https://wowforeverpath.com/es-MX/races</loc></url>
 <url><loc>https://wowforeverpath.com/es-MX/races/dwarf</loc></url>
 <url><loc>https://wowforeverpath.com/es-MX/races/gnome</loc></url>
@@ -2894,11 +2930,13 @@
 <url><loc>https://wowforeverpath.com/es/addons</loc></url>
 <url><loc>https://wowforeverpath.com/es/beta</loc></url>
 <url><loc>https://wowforeverpath.com/es/beta/builds/1</loc></url>
+<url><loc>https://wowforeverpath.com/es/beta/builds/10</loc></url>
 <url><loc>https://wowforeverpath.com/es/beta/builds/4</loc></url>
 <url><loc>https://wowforeverpath.com/es/beta/builds/5</loc></url>
 <url><loc>https://wowforeverpath.com/es/beta/builds/6</loc></url>
 <url><loc>https://wowforeverpath.com/es/beta/builds/7</loc></url>
 <url><loc>https://wowforeverpath.com/es/beta/builds/8</loc></url>
+<url><loc>https://wowforeverpath.com/es/beta/builds/9</loc></url>
 <url><loc>https://wowforeverpath.com/es/books</loc></url>
 <url><loc>https://wowforeverpath.com/es/changes/druid</loc></url>
 <url><loc>https://wowforeverpath.com/es/changes/hunter</loc></url>
@@ -3197,6 +3235,7 @@
 <url><loc>https://wowforeverpath.com/es/quests/Al'Aketh%20Thugs</loc></url>
 <url><loc>https://wowforeverpath.com/es/quests/An%20Alarming%20Request</loc></url>
 <url><loc>https://wowforeverpath.com/es/quests/An%20Ancient%20Grudge</loc></url>
+<url><loc>https://wowforeverpath.com/es/quests/Arugal's%20Folly%20(5)</loc></url>
 <url><loc>https://wowforeverpath.com/es/quests/As%20Above,%20So%20Below</loc></url>
 <url><loc>https://wowforeverpath.com/es/quests/At%20Home%20in%20the%20Shadows</loc></url>
 <url><loc>https://wowforeverpath.com/es/quests/Bandarion%20Keep%20(quest)</loc></url>
@@ -3220,6 +3259,7 @@
 <url><loc>https://wowforeverpath.com/es/quests/Destruction%20in%20Deadmines%20(2)</loc></url>
 <url><loc>https://wowforeverpath.com/es/quests/Detonation%20at%20a%20Distance</loc></url>
 <url><loc>https://wowforeverpath.com/es/quests/Detonation%20at%20a%20Distance%20(2)</loc></url>
+<url><loc>https://wowforeverpath.com/es/quests/Diplomatic%20Incident</loc></url>
 <url><loc>https://wowforeverpath.com/es/quests/Discipline%20(Forever)</loc></url>
 <url><loc>https://wowforeverpath.com/es/quests/Downstream</loc></url>
 <url><loc>https://wowforeverpath.com/es/quests/Dragonmaw%20Rumors</loc></url>
@@ -3248,6 +3288,7 @@
 <url><loc>https://wowforeverpath.com/es/quests/Horrors%20in%20the%20Highland</loc></url>
 <url><loc>https://wowforeverpath.com/es/quests/Important%20Heirlooms</loc></url>
 <url><loc>https://wowforeverpath.com/es/quests/Infestation%20Investigation</loc></url>
+<url><loc>https://wowforeverpath.com/es/quests/Into%20Fenris%20Keep</loc></url>
 <url><loc>https://wowforeverpath.com/es/quests/Key%20to%20the%20City%20(Forever)</loc></url>
 <url><loc>https://wowforeverpath.com/es/quests/Legging%20It</loc></url>
 <url><loc>https://wowforeverpath.com/es/quests/Leonid's%20Letter</loc></url>
@@ -3255,6 +3296,7 @@
 <url><loc>https://wowforeverpath.com/es/quests/Lost%20Relic%20Carry</loc></url>
 <url><loc>https://wowforeverpath.com/es/quests/Lost%20in%20the%20Shadows</loc></url>
 <url><loc>https://wowforeverpath.com/es/quests/Lost%20in%20the%20Thicket%20Things</loc></url>
+<url><loc>https://wowforeverpath.com/es/quests/Lumina%20Windsinger%20(quest)</loc></url>
 <url><loc>https://wowforeverpath.com/es/quests/Making%20Repairs%20(Forever)</loc></url>
 <url><loc>https://wowforeverpath.com/es/quests/Meal%20Appeal</loc></url>
 <url><loc>https://wowforeverpath.com/es/quests/Moonbrook%20Espionage</loc></url>
@@ -3317,6 +3359,7 @@
 <url><loc>https://wowforeverpath.com/es/quests/The%20Unsent%20Letter</loc></url>
 <url><loc>https://wowforeverpath.com/es/quests/The%20Warrior's%20Path</loc></url>
 <url><loc>https://wowforeverpath.com/es/quests/The%20Way%20of%20the%20Hunter</loc></url>
+<url><loc>https://wowforeverpath.com/es/quests/The%20Windshaper's%20Wrath</loc></url>
 <url><loc>https://wowforeverpath.com/es/quests/The%20Wrath%20of%20Rath'mael</loc></url>
 <url><loc>https://wowforeverpath.com/es/quests/This%20Fruit%20Could%20Bite%20Back</loc></url>
 <url><loc>https://wowforeverpath.com/es/quests/Thundering%20Hearts</loc></url>
@@ -3338,9 +3381,14 @@
 <url><loc>https://wowforeverpath.com/es/quests/Watching%20the%20Roads</loc></url>
 <url><loc>https://wowforeverpath.com/es/quests/Wayward%20Weapons</loc></url>
 <url><loc>https://wowforeverpath.com/es/quests/Welcome!%20(Thendal%20Grove)</loc></url>
+<url><loc>https://wowforeverpath.com/es/quests/What%20Comes%20Next%20(Alliance)</loc></url>
+<url><loc>https://wowforeverpath.com/es/quests/What%20Comes%20Next%20(Horde)</loc></url>
+<url><loc>https://wowforeverpath.com/es/quests/Whispering%20Horror%20Residue%20(quest)</loc></url>
 <url><loc>https://wowforeverpath.com/es/quests/Whuut's%20the%20Rush</loc></url>
 <url><loc>https://wowforeverpath.com/es/quests/Wild%20Eyes</loc></url>
+<url><loc>https://wowforeverpath.com/es/quests/Wrongly%20Blamed,%20Justly%20Corrected</loc></url>
 <url><loc>https://wowforeverpath.com/es/quests/Yelmak's%20Medley</loc></url>
+<url><loc>https://wowforeverpath.com/es/quests/Your%20Package%20Has%20Arrived</loc></url>
 <url><loc>https://wowforeverpath.com/es/races</loc></url>
 <url><loc>https://wowforeverpath.com/es/races/dwarf</loc></url>
 <url><loc>https://wowforeverpath.com/es/races/gnome</loc></url>
@@ -3854,11 +3902,13 @@
 <url><loc>https://wowforeverpath.com/fr/addons</loc></url>
 <url><loc>https://wowforeverpath.com/fr/beta</loc></url>
 <url><loc>https://wowforeverpath.com/fr/beta/builds/1</loc></url>
+<url><loc>https://wowforeverpath.com/fr/beta/builds/10</loc></url>
 <url><loc>https://wowforeverpath.com/fr/beta/builds/4</loc></url>
 <url><loc>https://wowforeverpath.com/fr/beta/builds/5</loc></url>
 <url><loc>https://wowforeverpath.com/fr/beta/builds/6</loc></url>
 <url><loc>https://wowforeverpath.com/fr/beta/builds/7</loc></url>
 <url><loc>https://wowforeverpath.com/fr/beta/builds/8</loc></url>
+<url><loc>https://wowforeverpath.com/fr/beta/builds/9</loc></url>
 <url><loc>https://wowforeverpath.com/fr/books</loc></url>
 <url><loc>https://wowforeverpath.com/fr/changes/druid</loc></url>
 <url><loc>https://wowforeverpath.com/fr/changes/hunter</loc></url>
@@ -4157,6 +4207,7 @@
 <url><loc>https://wowforeverpath.com/fr/quests/Al'Aketh%20Thugs</loc></url>
 <url><loc>https://wowforeverpath.com/fr/quests/An%20Alarming%20Request</loc></url>
 <url><loc>https://wowforeverpath.com/fr/quests/An%20Ancient%20Grudge</loc></url>
+<url><loc>https://wowforeverpath.com/fr/quests/Arugal's%20Folly%20(5)</loc></url>
 <url><loc>https://wowforeverpath.com/fr/quests/As%20Above,%20So%20Below</loc></url>
 <url><loc>https://wowforeverpath.com/fr/quests/At%20Home%20in%20the%20Shadows</loc></url>
 <url><loc>https://wowforeverpath.com/fr/quests/Bandarion%20Keep%20(quest)</loc></url>
@@ -4180,6 +4231,7 @@
 <url><loc>https://wowforeverpath.com/fr/quests/Destruction%20in%20Deadmines%20(2)</loc></url>
 <url><loc>https://wowforeverpath.com/fr/quests/Detonation%20at%20a%20Distance</loc></url>
 <url><loc>https://wowforeverpath.com/fr/quests/Detonation%20at%20a%20Distance%20(2)</loc></url>
+<url><loc>https://wowforeverpath.com/fr/quests/Diplomatic%20Incident</loc></url>
 <url><loc>https://wowforeverpath.com/fr/quests/Discipline%20(Forever)</loc></url>
 <url><loc>https://wowforeverpath.com/fr/quests/Downstream</loc></url>
 <url><loc>https://wowforeverpath.com/fr/quests/Dragonmaw%20Rumors</loc></url>
@@ -4208,6 +4260,7 @@
 <url><loc>https://wowforeverpath.com/fr/quests/Horrors%20in%20the%20Highland</loc></url>
 <url><loc>https://wowforeverpath.com/fr/quests/Important%20Heirlooms</loc></url>
 <url><loc>https://wowforeverpath.com/fr/quests/Infestation%20Investigation</loc></url>
+<url><loc>https://wowforeverpath.com/fr/quests/Into%20Fenris%20Keep</loc></url>
 <url><loc>https://wowforeverpath.com/fr/quests/Key%20to%20the%20City%20(Forever)</loc></url>
 <url><loc>https://wowforeverpath.com/fr/quests/Legging%20It</loc></url>
 <url><loc>https://wowforeverpath.com/fr/quests/Leonid's%20Letter</loc></url>
@@ -4215,6 +4268,7 @@
 <url><loc>https://wowforeverpath.com/fr/quests/Lost%20Relic%20Carry</loc></url>
 <url><loc>https://wowforeverpath.com/fr/quests/Lost%20in%20the%20Shadows</loc></url>
 <url><loc>https://wowforeverpath.com/fr/quests/Lost%20in%20the%20Thicket%20Things</loc></url>
+<url><loc>https://wowforeverpath.com/fr/quests/Lumina%20Windsinger%20(quest)</loc></url>
 <url><loc>https://wowforeverpath.com/fr/quests/Making%20Repairs%20(Forever)</loc></url>
 <url><loc>https://wowforeverpath.com/fr/quests/Meal%20Appeal</loc></url>
 <url><loc>https://wowforeverpath.com/fr/quests/Moonbrook%20Espionage</loc></url>
@@ -4277,6 +4331,7 @@
 <url><loc>https://wowforeverpath.com/fr/quests/The%20Unsent%20Letter</loc></url>
 <url><loc>https://wowforeverpath.com/fr/quests/The%20Warrior's%20Path</loc></url>
 <url><loc>https://wowforeverpath.com/fr/quests/The%20Way%20of%20the%20Hunter</loc></url>
+<url><loc>https://wowforeverpath.com/fr/quests/The%20Windshaper's%20Wrath</loc></url>
 <url><loc>https://wowforeverpath.com/fr/quests/The%20Wrath%20of%20Rath'mael</loc></url>
 <url><loc>https://wowforeverpath.com/fr/quests/This%20Fruit%20Could%20Bite%20Back</loc></url>
 <url><loc>https://wowforeverpath.com/fr/quests/Thundering%20Hearts</loc></url>
@@ -4298,9 +4353,14 @@
 <url><loc>https://wowforeverpath.com/fr/quests/Watching%20the%20Roads</loc></url>
 <url><loc>https://wowforeverpath.com/fr/quests/Wayward%20Weapons</loc></url>
 <url><loc>https://wowforeverpath.com/fr/quests/Welcome!%20(Thendal%20Grove)</loc></url>
+<url><loc>https://wowforeverpath.com/fr/quests/What%20Comes%20Next%20(Alliance)</loc></url>
+<url><loc>https://wowforeverpath.com/fr/quests/What%20Comes%20Next%20(Horde)</loc></url>
+<url><loc>https://wowforeverpath.com/fr/quests/Whispering%20Horror%20Residue%20(quest)</loc></url>
 <url><loc>https://wowforeverpath.com/fr/quests/Whuut's%20the%20Rush</loc></url>
 <url><loc>https://wowforeverpath.com/fr/quests/Wild%20Eyes</loc></url>
+<url><loc>https://wowforeverpath.com/fr/quests/Wrongly%20Blamed,%20Justly%20Corrected</loc></url>
 <url><loc>https://wowforeverpath.com/fr/quests/Yelmak's%20Medley</loc></url>
+<url><loc>https://wowforeverpath.com/fr/quests/Your%20Package%20Has%20Arrived</loc></url>
 <url><loc>https://wowforeverpath.com/fr/races</loc></url>
 <url><loc>https://wowforeverpath.com/fr/races/dwarf</loc></url>
 <url><loc>https://wowforeverpath.com/fr/races/gnome</loc></url>
@@ -4814,11 +4874,13 @@
 <url><loc>https://wowforeverpath.com/it/addons</loc></url>
 <url><loc>https://wowforeverpath.com/it/beta</loc></url>
 <url><loc>https://wowforeverpath.com/it/beta/builds/1</loc></url>
+<url><loc>https://wowforeverpath.com/it/beta/builds/10</loc></url>
 <url><loc>https://wowforeverpath.com/it/beta/builds/4</loc></url>
 <url><loc>https://wowforeverpath.com/it/beta/builds/5</loc></url>
 <url><loc>https://wowforeverpath.com/it/beta/builds/6</loc></url>
 <url><loc>https://wowforeverpath.com/it/beta/builds/7</loc></url>
 <url><loc>https://wowforeverpath.com/it/beta/builds/8</loc></url>
+<url><loc>https://wowforeverpath.com/it/beta/builds/9</loc></url>
 <url><loc>https://wowforeverpath.com/it/books</loc></url>
 <url><loc>https://wowforeverpath.com/it/changes/druid</loc></url>
 <url><loc>https://wowforeverpath.com/it/changes/hunter</loc></url>
@@ -5117,6 +5179,7 @@
 <url><loc>https://wowforeverpath.com/it/quests/Al'Aketh%20Thugs</loc></url>
 <url><loc>https://wowforeverpath.com/it/quests/An%20Alarming%20Request</loc></url>
 <url><loc>https://wowforeverpath.com/it/quests/An%20Ancient%20Grudge</loc></url>
+<url><loc>https://wowforeverpath.com/it/quests/Arugal's%20Folly%20(5)</loc></url>
 <url><loc>https://wowforeverpath.com/it/quests/As%20Above,%20So%20Below</loc></url>
 <url><loc>https://wowforeverpath.com/it/quests/At%20Home%20in%20the%20Shadows</loc></url>
 <url><loc>https://wowforeverpath.com/it/quests/Bandarion%20Keep%20(quest)</loc></url>
@@ -5140,6 +5203,7 @@
 <url><loc>https://wowforeverpath.com/it/quests/Destruction%20in%20Deadmines%20(2)</loc></url>
 <url><loc>https://wowforeverpath.com/it/quests/Detonation%20at%20a%20Distance</loc></url>
 <url><loc>https://wowforeverpath.com/it/quests/Detonation%20at%20a%20Distance%20(2)</loc></url>
+<url><loc>https://wowforeverpath.com/it/quests/Diplomatic%20Incident</loc></url>
 <url><loc>https://wowforeverpath.com/it/quests/Discipline%20(Forever)</loc></url>
 <url><loc>https://wowforeverpath.com/it/quests/Downstream</loc></url>
 <url><loc>https://wowforeverpath.com/it/quests/Dragonmaw%20Rumors</loc></url>
@@ -5168,6 +5232,7 @@
 <url><loc>https://wowforeverpath.com/it/quests/Horrors%20in%20the%20Highland</loc></url>
 <url><loc>https://wowforeverpath.com/it/quests/Important%20Heirlooms</loc></url>
 <url><loc>https://wowforeverpath.com/it/quests/Infestation%20Investigation</loc></url>
+<url><loc>https://wowforeverpath.com/it/quests/Into%20Fenris%20Keep</loc></url>
 <url><loc>https://wowforeverpath.com/it/quests/Key%20to%20the%20City%20(Forever)</loc></url>
 <url><loc>https://wowforeverpath.com/it/quests/Legging%20It</loc></url>
 <url><loc>https://wowforeverpath.com/it/quests/Leonid's%20Letter</loc></url>
@@ -5175,6 +5240,7 @@
 <url><loc>https://wowforeverpath.com/it/quests/Lost%20Relic%20Carry</loc></url>
 <url><loc>https://wowforeverpath.com/it/quests/Lost%20in%20the%20Shadows</loc></url>
 <url><loc>https://wowforeverpath.com/it/quests/Lost%20in%20the%20Thicket%20Things</loc></url>
+<url><loc>https://wowforeverpath.com/it/quests/Lumina%20Windsinger%20(quest)</loc></url>
 <url><loc>https://wowforeverpath.com/it/quests/Making%20Repairs%20(Forever)</loc></url>
 <url><loc>https://wowforeverpath.com/it/quests/Meal%20Appeal</loc></url>
 <url><loc>https://wowforeverpath.com/it/quests/Moonbrook%20Espionage</loc></url>
@@ -5237,6 +5303,7 @@
 <url><loc>https://wowforeverpath.com/it/quests/The%20Unsent%20Letter</loc></url>
 <url><loc>https://wowforeverpath.com/it/quests/The%20Warrior's%20Path</loc></url>
 <url><loc>https://wowforeverpath.com/it/quests/The%20Way%20of%20the%20Hunter</loc></url>
+<url><loc>https://wowforeverpath.com/it/quests/The%20Windshaper's%20Wrath</loc></url>
 <url><loc>https://wowforeverpath.com/it/quests/The%20Wrath%20of%20Rath'mael</loc></url>
 <url><loc>https://wowforeverpath.com/it/quests/This%20Fruit%20Could%20Bite%20Back</loc></url>
 <url><loc>https://wowforeverpath.com/it/quests/Thundering%20Hearts</loc></url>
@@ -5258,9 +5325,14 @@
 <url><loc>https://wowforeverpath.com/it/quests/Watching%20the%20Roads</loc></url>
 <url><loc>https://wowforeverpath.com/it/quests/Wayward%20Weapons</loc></url>
 <url><loc>https://wowforeverpath.com/it/quests/Welcome!%20(Thendal%20Grove)</loc></url>
+<url><loc>https://wowforeverpath.com/it/quests/What%20Comes%20Next%20(Alliance)</loc></url>
+<url><loc>https://wowforeverpath.com/it/quests/What%20Comes%20Next%20(Horde)</loc></url>
+<url><loc>https://wowforeverpath.com/it/quests/Whispering%20Horror%20Residue%20(quest)</loc></url>
 <url><loc>https://wowforeverpath.com/it/quests/Whuut's%20the%20Rush</loc></url>
 <url><loc>https://wowforeverpath.com/it/quests/Wild%20Eyes</loc></url>
+<url><loc>https://wowforeverpath.com/it/quests/Wrongly%20Blamed,%20Justly%20Corrected</loc></url>
 <url><loc>https://wowforeverpath.com/it/quests/Yelmak's%20Medley</loc></url>
+<url><loc>https://wowforeverpath.com/it/quests/Your%20Package%20Has%20Arrived</loc></url>
 <url><loc>https://wowforeverpath.com/it/races</loc></url>
 <url><loc>https://wowforeverpath.com/it/races/dwarf</loc></url>
 <url><loc>https://wowforeverpath.com/it/races/gnome</loc></url>
@@ -5774,11 +5846,13 @@
 <url><loc>https://wowforeverpath.com/ko/addons</loc></url>
 <url><loc>https://wowforeverpath.com/ko/beta</loc></url>
 <url><loc>https://wowforeverpath.com/ko/beta/builds/1</loc></url>
+<url><loc>https://wowforeverpath.com/ko/beta/builds/10</loc></url>
 <url><loc>https://wowforeverpath.com/ko/beta/builds/4</loc></url>
 <url><loc>https://wowforeverpath.com/ko/beta/builds/5</loc></url>
 <url><loc>https://wowforeverpath.com/ko/beta/builds/6</loc></url>
 <url><loc>https://wowforeverpath.com/ko/beta/builds/7</loc></url>
 <url><loc>https://wowforeverpath.com/ko/beta/builds/8</loc></url>
+<url><loc>https://wowforeverpath.com/ko/beta/builds/9</loc></url>
 <url><loc>https://wowforeverpath.com/ko/books</loc></url>
 <url><loc>https://wowforeverpath.com/ko/changes/druid</loc></url>
 <url><loc>https://wowforeverpath.com/ko/changes/hunter</loc></url>
@@ -6077,6 +6151,7 @@
 <url><loc>https://wowforeverpath.com/ko/quests/Al'Aketh%20Thugs</loc></url>
 <url><loc>https://wowforeverpath.com/ko/quests/An%20Alarming%20Request</loc></url>
 <url><loc>https://wowforeverpath.com/ko/quests/An%20Ancient%20Grudge</loc></url>
+<url><loc>https://wowforeverpath.com/ko/quests/Arugal's%20Folly%20(5)</loc></url>
 <url><loc>https://wowforeverpath.com/ko/quests/As%20Above,%20So%20Below</loc></url>
 <url><loc>https://wowforeverpath.com/ko/quests/At%20Home%20in%20the%20Shadows</loc></url>
 <url><loc>https://wowforeverpath.com/ko/quests/Bandarion%20Keep%20(quest)</loc></url>
@@ -6100,6 +6175,7 @@
 <url><loc>https://wowforeverpath.com/ko/quests/Destruction%20in%20Deadmines%20(2)</loc></url>
 <url><loc>https://wowforeverpath.com/ko/quests/Detonation%20at%20a%20Distance</loc></url>
 <url><loc>https://wowforeverpath.com/ko/quests/Detonation%20at%20a%20Distance%20(2)</loc></url>
+<url><loc>https://wowforeverpath.com/ko/quests/Diplomatic%20Incident</loc></url>
 <url><loc>https://wowforeverpath.com/ko/quests/Discipline%20(Forever)</loc></url>
 <url><loc>https://wowforeverpath.com/ko/quests/Downstream</loc></url>
 <url><loc>https://wowforeverpath.com/ko/quests/Dragonmaw%20Rumors</loc></url>
@@ -6128,6 +6204,7 @@
 <url><loc>https://wowforeverpath.com/ko/quests/Horrors%20in%20the%20Highland</loc></url>
 <url><loc>https://wowforeverpath.com/ko/quests/Important%20Heirlooms</loc></url>
 <url><loc>https://wowforeverpath.com/ko/quests/Infestation%20Investigation</loc></url>
+<url><loc>https://wowforeverpath.com/ko/quests/Into%20Fenris%20Keep</loc></url>
 <url><loc>https://wowforeverpath.com/ko/quests/Key%20to%20the%20City%20(Forever)</loc></url>
 <url><loc>https://wowforeverpath.com/ko/quests/Legging%20It</loc></url>
 <url><loc>https://wowforeverpath.com/ko/quests/Leonid's%20Letter</loc></url>
@@ -6135,6 +6212,7 @@
 <url><loc>https://wowforeverpath.com/ko/quests/Lost%20Relic%20Carry</loc></url>
 <url><loc>https://wowforeverpath.com/ko/quests/Lost%20in%20the%20Shadows</loc></url>
 <url><loc>https://wowforeverpath.com/ko/quests/Lost%20in%20the%20Thicket%20Things</loc></url>
+<url><loc>https://wowforeverpath.com/ko/quests/Lumina%20Windsinger%20(quest)</loc></url>
 <url><loc>https://wowforeverpath.com/ko/quests/Making%20Repairs%20(Forever)</loc></url>
 <url><loc>https://wowforeverpath.com/ko/quests/Meal%20Appeal</loc></url>
 <url><loc>https://wowforeverpath.com/ko/quests/Moonbrook%20Espionage</loc></url>
@@ -6197,6 +6275,7 @@
 <url><loc>https://wowforeverpath.com/ko/quests/The%20Unsent%20Letter</loc></url>
 <url><loc>https://wowforeverpath.com/ko/quests/The%20Warrior's%20Path</loc></url>
 <url><loc>https://wowforeverpath.com/ko/quests/The%20Way%20of%20the%20Hunter</loc></url>
+<url><loc>https://wowforeverpath.com/ko/quests/The%20Windshaper's%20Wrath</loc></url>
 <url><loc>https://wowforeverpath.com/ko/quests/The%20Wrath%20of%20Rath'mael</loc></url>
 <url><loc>https://wowforeverpath.com/ko/quests/This%20Fruit%20Could%20Bite%20Back</loc></url>
 <url><loc>https://wowforeverpath.com/ko/quests/Thundering%20Hearts</loc></url>
@@ -6218,9 +6297,14 @@
 <url><loc>https://wowforeverpath.com/ko/quests/Watching%20the%20Roads</loc></url>
 <url><loc>https://wowforeverpath.com/ko/quests/Wayward%20Weapons</loc></url>
 <url><loc>https://wowforeverpath.com/ko/quests/Welcome!%20(Thendal%20Grove)</loc></url>
+<url><loc>https://wowforeverpath.com/ko/quests/What%20Comes%20Next%20(Alliance)</loc></url>
+<url><loc>https://wowforeverpath.com/ko/quests/What%20Comes%20Next%20(Horde)</loc></url>
+<url><loc>https://wowforeverpath.com/ko/quests/Whispering%20Horror%20Residue%20(quest)</loc></url>
 <url><loc>https://wowforeverpath.com/ko/quests/Whuut's%20the%20Rush</loc></url>
 <url><loc>https://wowforeverpath.com/ko/quests/Wild%20Eyes</loc></url>
+<url><loc>https://wowforeverpath.com/ko/quests/Wrongly%20Blamed,%20Justly%20Corrected</loc></url>
 <url><loc>https://wowforeverpath.com/ko/quests/Yelmak's%20Medley</loc></url>
+<url><loc>https://wowforeverpath.com/ko/quests/Your%20Package%20Has%20Arrived</loc></url>
 <url><loc>https://wowforeverpath.com/ko/races</loc></url>
 <url><loc>https://wowforeverpath.com/ko/races/dwarf</loc></url>
 <url><loc>https://wowforeverpath.com/ko/races/gnome</loc></url>
@@ -6734,11 +6818,13 @@
 <url><loc>https://wowforeverpath.com/pt-BR/addons</loc></url>
 <url><loc>https://wowforeverpath.com/pt-BR/beta</loc></url>
 <url><loc>https://wowforeverpath.com/pt-BR/beta/builds/1</loc></url>
+<url><loc>https://wowforeverpath.com/pt-BR/beta/builds/10</loc></url>
 <url><loc>https://wowforeverpath.com/pt-BR/beta/builds/4</loc></url>
 <url><loc>https://wowforeverpath.com/pt-BR/beta/builds/5</loc></url>
 <url><loc>https://wowforeverpath.com/pt-BR/beta/builds/6</loc></url>
 <url><loc>https://wowforeverpath.com/pt-BR/beta/builds/7</loc></url>
 <url><loc>https://wowforeverpath.com/pt-BR/beta/builds/8</loc></url>
+<url><loc>https://wowforeverpath.com/pt-BR/beta/builds/9</loc></url>
 <url><loc>https://wowforeverpath.com/pt-BR/books</loc></url>
 <url><loc>https://wowforeverpath.com/pt-BR/changes/druid</loc></url>
 <url><loc>https://wowforeverpath.com/pt-BR/changes/hunter</loc></url>
@@ -7037,6 +7123,7 @@
 <url><loc>https://wowforeverpath.com/pt-BR/quests/Al'Aketh%20Thugs</loc></url>
 <url><loc>https://wowforeverpath.com/pt-BR/quests/An%20Alarming%20Request</loc></url>
 <url><loc>https://wowforeverpath.com/pt-BR/quests/An%20Ancient%20Grudge</loc></url>
+<url><loc>https://wowforeverpath.com/pt-BR/quests/Arugal's%20Folly%20(5)</loc></url>
 <url><loc>https://wowforeverpath.com/pt-BR/quests/As%20Above,%20So%20Below</loc></url>
 <url><loc>https://wowforeverpath.com/pt-BR/quests/At%20Home%20in%20the%20Shadows</loc></url>
 <url><loc>https://wowforeverpath.com/pt-BR/quests/Bandarion%20Keep%20(quest)</loc></url>
@@ -7060,6 +7147,7 @@
 <url><loc>https://wowforeverpath.com/pt-BR/quests/Destruction%20in%20Deadmines%20(2)</loc></url>
 <url><loc>https://wowforeverpath.com/pt-BR/quests/Detonation%20at%20a%20Distance</loc></url>
 <url><loc>https://wowforeverpath.com/pt-BR/quests/Detonation%20at%20a%20Distance%20(2)</loc></url>
+<url><loc>https://wowforeverpath.com/pt-BR/quests/Diplomatic%20Incident</loc></url>
 <url><loc>https://wowforeverpath.com/pt-BR/quests/Discipline%20(Forever)</loc></url>
 <url><loc>https://wowforeverpath.com/pt-BR/quests/Downstream</loc></url>
 <url><loc>https://wowforeverpath.com/pt-BR/quests/Dragonmaw%20Rumors</loc></url>
@@ -7088,6 +7176,7 @@
 <url><loc>https://wowforeverpath.com/pt-BR/quests/Horrors%20in%20the%20Highland</loc></url>
 <url><loc>https://wowforeverpath.com/pt-BR/quests/Important%20Heirlooms</loc></url>
 <url><loc>https://wowforeverpath.com/pt-BR/quests/Infestation%20Investigation</loc></url>
+<url><loc>https://wowforeverpath.com/pt-BR/quests/Into%20Fenris%20Keep</loc></url>
 <url><loc>https://wowforeverpath.com/pt-BR/quests/Key%20to%20the%20City%20(Forever)</loc></url>
 <url><loc>https://wowforeverpath.com/pt-BR/quests/Legging%20It</loc></url>
 <url><loc>https://wowforeverpath.com/pt-BR/quests/Leonid's%20Letter</loc></url>
@@ -7095,6 +7184,7 @@
 <url><loc>https://wowforeverpath.com/pt-BR/quests/Lost%20Relic%20Carry</loc></url>
 <url><loc>https://wowforeverpath.com/pt-BR/quests/Lost%20in%20the%20Shadows</loc></url>
 <url><loc>https://wowforeverpath.com/pt-BR/quests/Lost%20in%20the%20Thicket%20Things</loc></url>
+<url><loc>https://wowforeverpath.com/pt-BR/quests/Lumina%20Windsinger%20(quest)</loc></url>
 <url><loc>https://wowforeverpath.com/pt-BR/quests/Making%20Repairs%20(Forever)</loc></url>
 <url><loc>https://wowforeverpath.com/pt-BR/quests/Meal%20Appeal</loc></url>
 <url><loc>https://wowforeverpath.com/pt-BR/quests/Moonbrook%20Espionage</loc></url>
@@ -7157,6 +7247,7 @@
 <url><loc>https://wowforeverpath.com/pt-BR/quests/The%20Unsent%20Letter</loc></url>
 <url><loc>https://wowforeverpath.com/pt-BR/quests/The%20Warrior's%20Path</loc></url>
 <url><loc>https://wowforeverpath.com/pt-BR/quests/The%20Way%20of%20the%20Hunter</loc></url>
+<url><loc>https://wowforeverpath.com/pt-BR/quests/The%20Windshaper's%20Wrath</loc></url>
 <url><loc>https://wowforeverpath.com/pt-BR/quests/The%20Wrath%20of%20Rath'mael</loc></url>
 <url><loc>https://wowforeverpath.com/pt-BR/quests/This%20Fruit%20Could%20Bite%20Back</loc></url>
 <url><loc>https://wowforeverpath.com/pt-BR/quests/Thundering%20Hearts</loc></url>
@@ -7178,9 +7269,14 @@
 <url><loc>https://wowforeverpath.com/pt-BR/quests/Watching%20the%20Roads</loc></url>
 <url><loc>https://wowforeverpath.com/pt-BR/quests/Wayward%20Weapons</loc></url>
 <url><loc>https://wowforeverpath.com/pt-BR/quests/Welcome!%20(Thendal%20Grove)</loc></url>
+<url><loc>https://wowforeverpath.com/pt-BR/quests/What%20Comes%20Next%20(Alliance)</loc></url>
+<url><loc>https://wowforeverpath.com/pt-BR/quests/What%20Comes%20Next%20(Horde)</loc></url>
+<url><loc>https://wowforeverpath.com/pt-BR/quests/Whispering%20Horror%20Residue%20(quest)</loc></url>
 <url><loc>https://wowforeverpath.com/pt-BR/quests/Whuut's%20the%20Rush</loc></url>
 <url><loc>https://wowforeverpath.com/pt-BR/quests/Wild%20Eyes</loc></url>
+<url><loc>https://wowforeverpath.com/pt-BR/quests/Wrongly%20Blamed,%20Justly%20Corrected</loc></url>
 <url><loc>https://wowforeverpath.com/pt-BR/quests/Yelmak's%20Medley</loc></url>
+<url><loc>https://wowforeverpath.com/pt-BR/quests/Your%20Package%20Has%20Arrived</loc></url>
 <url><loc>https://wowforeverpath.com/pt-BR/races</loc></url>
 <url><loc>https://wowforeverpath.com/pt-BR/races/dwarf</loc></url>
 <url><loc>https://wowforeverpath.com/pt-BR/races/gnome</loc></url>
@@ -7694,11 +7790,13 @@
 <url><loc>https://wowforeverpath.com/ru/addons</loc></url>
 <url><loc>https://wowforeverpath.com/ru/beta</loc></url>
 <url><loc>https://wowforeverpath.com/ru/beta/builds/1</loc></url>
+<url><loc>https://wowforeverpath.com/ru/beta/builds/10</loc></url>
 <url><loc>https://wowforeverpath.com/ru/beta/builds/4</loc></url>
 <url><loc>https://wowforeverpath.com/ru/beta/builds/5</loc></url>
 <url><loc>https://wowforeverpath.com/ru/beta/builds/6</loc></url>
 <url><loc>https://wowforeverpath.com/ru/beta/builds/7</loc></url>
 <url><loc>https://wowforeverpath.com/ru/beta/builds/8</loc></url>
+<url><loc>https://wowforeverpath.com/ru/beta/builds/9</loc></url>
 <url><loc>https://wowforeverpath.com/ru/books</loc></url>
 <url><loc>https://wowforeverpath.com/ru/changes/druid</loc></url>
 <url><loc>https://wowforeverpath.com/ru/changes/hunter</loc></url>
@@ -7997,6 +8095,7 @@
 <url><loc>https://wowforeverpath.com/ru/quests/Al'Aketh%20Thugs</loc></url>
 <url><loc>https://wowforeverpath.com/ru/quests/An%20Alarming%20Request</loc></url>
 <url><loc>https://wowforeverpath.com/ru/quests/An%20Ancient%20Grudge</loc></url>
+<url><loc>https://wowforeverpath.com/ru/quests/Arugal's%20Folly%20(5)</loc></url>
 <url><loc>https://wowforeverpath.com/ru/quests/As%20Above,%20So%20Below</loc></url>
 <url><loc>https://wowforeverpath.com/ru/quests/At%20Home%20in%20the%20Shadows</loc></url>
 <url><loc>https://wowforeverpath.com/ru/quests/Bandarion%20Keep%20(quest)</loc></url>
@@ -8020,6 +8119,7 @@
 <url><loc>https://wowforeverpath.com/ru/quests/Destruction%20in%20Deadmines%20(2)</loc></url>
 <url><loc>https://wowforeverpath.com/ru/quests/Detonation%20at%20a%20Distance</loc></url>
 <url><loc>https://wowforeverpath.com/ru/quests/Detonation%20at%20a%20Distance%20(2)</loc></url>
+<url><loc>https://wowforeverpath.com/ru/quests/Diplomatic%20Incident</loc></url>
 <url><loc>https://wowforeverpath.com/ru/quests/Discipline%20(Forever)</loc></url>
 <url><loc>https://wowforeverpath.com/ru/quests/Downstream</loc></url>
 <url><loc>https://wowforeverpath.com/ru/quests/Dragonmaw%20Rumors</loc></url>
@@ -8048,6 +8148,7 @@
 <url><loc>https://wowforeverpath.com/ru/quests/Horrors%20in%20the%20Highland</loc></url>
 <url><loc>https://wowforeverpath.com/ru/quests/Important%20Heirlooms</loc></url>
 <url><loc>https://wowforeverpath.com/ru/quests/Infestation%20Investigation</loc></url>
+<url><loc>https://wowforeverpath.com/ru/quests/Into%20Fenris%20Keep</loc></url>
 <url><loc>https://wowforeverpath.com/ru/quests/Key%20to%20the%20City%20(Forever)</loc></url>
 <url><loc>https://wowforeverpath.com/ru/quests/Legging%20It</loc></url>
 <url><loc>https://wowforeverpath.com/ru/quests/Leonid's%20Letter</loc></url>
@@ -8055,6 +8156,7 @@
 <url><loc>https://wowforeverpath.com/ru/quests/Lost%20Relic%20Carry</loc></url>
 <url><loc>https://wowforeverpath.com/ru/quests/Lost%20in%20the%20Shadows</loc></url>
 <url><loc>https://wowforeverpath.com/ru/quests/Lost%20in%20the%20Thicket%20Things</loc></url>
+<url><loc>https://wowforeverpath.com/ru/quests/Lumina%20Windsinger%20(quest)</loc></url>
 <url><loc>https://wowforeverpath.com/ru/quests/Making%20Repairs%20(Forever)</loc></url>
 <url><loc>https://wowforeverpath.com/ru/quests/Meal%20Appeal</loc></url>
 <url><loc>https://wowforeverpath.com/ru/quests/Moonbrook%20Espionage</loc></url>
@@ -8117,6 +8219,7 @@
 <url><loc>https://wowforeverpath.com/ru/quests/The%20Unsent%20Letter</loc></url>
 <url><loc>https://wowforeverpath.com/ru/quests/The%20Warrior's%20Path</loc></url>
 <url><loc>https://wowforeverpath.com/ru/quests/The%20Way%20of%20the%20Hunter</loc></url>
+<url><loc>https://wowforeverpath.com/ru/quests/The%20Windshaper's%20Wrath</loc></url>
 <url><loc>https://wowforeverpath.com/ru/quests/The%20Wrath%20of%20Rath'mael</loc></url>
 <url><loc>https://wowforeverpath.com/ru/quests/This%20Fruit%20Could%20Bite%20Back</loc></url>
 <url><loc>https://wowforeverpath.com/ru/quests/Thundering%20Hearts</loc></url>
@@ -8138,9 +8241,14 @@
 <url><loc>https://wowforeverpath.com/ru/quests/Watching%20the%20Roads</loc></url>
 <url><loc>https://wowforeverpath.com/ru/quests/Wayward%20Weapons</loc></url>
 <url><loc>https://wowforeverpath.com/ru/quests/Welcome!%20(Thendal%20Grove)</loc></url>
+<url><loc>https://wowforeverpath.com/ru/quests/What%20Comes%20Next%20(Alliance)</loc></url>
+<url><loc>https://wowforeverpath.com/ru/quests/What%20Comes%20Next%20(Horde)</loc></url>
+<url><loc>https://wowforeverpath.com/ru/quests/Whispering%20Horror%20Residue%20(quest)</loc></url>
 <url><loc>https://wowforeverpath.com/ru/quests/Whuut's%20the%20Rush</loc></url>
 <url><loc>https://wowforeverpath.com/ru/quests/Wild%20Eyes</loc></url>
+<url><loc>https://wowforeverpath.com/ru/quests/Wrongly%20Blamed,%20Justly%20Corrected</loc></url>
 <url><loc>https://wowforeverpath.com/ru/quests/Yelmak's%20Medley</loc></url>
+<url><loc>https://wowforeverpath.com/ru/quests/Your%20Package%20Has%20Arrived</loc></url>
 <url><loc>https://wowforeverpath.com/ru/races</loc></url>
 <url><loc>https://wowforeverpath.com/ru/races/dwarf</loc></url>
 <url><loc>https://wowforeverpath.com/ru/races/gnome</loc></url>
@@ -8654,11 +8762,13 @@
 <url><loc>https://wowforeverpath.com/tr/addons</loc></url>
 <url><loc>https://wowforeverpath.com/tr/beta</loc></url>
 <url><loc>https://wowforeverpath.com/tr/beta/builds/1</loc></url>
+<url><loc>https://wowforeverpath.com/tr/beta/builds/10</loc></url>
 <url><loc>https://wowforeverpath.com/tr/beta/builds/4</loc></url>
 <url><loc>https://wowforeverpath.com/tr/beta/builds/5</loc></url>
 <url><loc>https://wowforeverpath.com/tr/beta/builds/6</loc></url>
 <url><loc>https://wowforeverpath.com/tr/beta/builds/7</loc></url>
 <url><loc>https://wowforeverpath.com/tr/beta/builds/8</loc></url>
+<url><loc>https://wowforeverpath.com/tr/beta/builds/9</loc></url>
 <url><loc>https://wowforeverpath.com/tr/books</loc></url>
 <url><loc>https://wowforeverpath.com/tr/changes/druid</loc></url>
 <url><loc>https://wowforeverpath.com/tr/changes/hunter</loc></url>
@@ -8957,6 +9067,7 @@
 <url><loc>https://wowforeverpath.com/tr/quests/Al'Aketh%20Thugs</loc></url>
 <url><loc>https://wowforeverpath.com/tr/quests/An%20Alarming%20Request</loc></url>
 <url><loc>https://wowforeverpath.com/tr/quests/An%20Ancient%20Grudge</loc></url>
+<url><loc>https://wowforeverpath.com/tr/quests/Arugal's%20Folly%20(5)</loc></url>
 <url><loc>https://wowforeverpath.com/tr/quests/As%20Above,%20So%20Below</loc></url>
 <url><loc>https://wowforeverpath.com/tr/quests/At%20Home%20in%20the%20Shadows</loc></url>
 <url><loc>https://wowforeverpath.com/tr/quests/Bandarion%20Keep%20(quest)</loc></url>
@@ -8980,6 +9091,7 @@
 <url><loc>https://wowforeverpath.com/tr/quests/Destruction%20in%20Deadmines%20(2)</loc></url>
 <url><loc>https://wowforeverpath.com/tr/quests/Detonation%20at%20a%20Distance</loc></url>
 <url><loc>https://wowforeverpath.com/tr/quests/Detonation%20at%20a%20Distance%20(2)</loc></url>
+<url><loc>https://wowforeverpath.com/tr/quests/Diplomatic%20Incident</loc></url>
 <url><loc>https://wowforeverpath.com/tr/quests/Discipline%20(Forever)</loc></url>
 <url><loc>https://wowforeverpath.com/tr/quests/Downstream</loc></url>
 <url><loc>https://wowforeverpath.com/tr/quests/Dragonmaw%20Rumors</loc></url>
@@ -9008,6 +9120,7 @@
 <url><loc>https://wowforeverpath.com/tr/quests/Horrors%20in%20the%20Highland</loc></url>
 <url><loc>https://wowforeverpath.com/tr/quests/Important%20Heirlooms</loc></url>
 <url><loc>https://wowforeverpath.com/tr/quests/Infestation%20Investigation</loc></url>
+<url><loc>https://wowforeverpath.com/tr/quests/Into%20Fenris%20Keep</loc></url>
 <url><loc>https://wowforeverpath.com/tr/quests/Key%20to%20the%20City%20(Forever)</loc></url>
 <url><loc>https://wowforeverpath.com/tr/quests/Legging%20It</loc></url>
 <url><loc>https://wowforeverpath.com/tr/quests/Leonid's%20Letter</loc></url>
@@ -9015,6 +9128,7 @@
 <url><loc>https://wowforeverpath.com/tr/quests/Lost%20Relic%20Carry</loc></url>
 <url><loc>https://wowforeverpath.com/tr/quests/Lost%20in%20the%20Shadows</loc></url>
 <url><loc>https://wowforeverpath.com/tr/quests/Lost%20in%20the%20Thicket%20Things</loc></url>
+<url><loc>https://wowforeverpath.com/tr/quests/Lumina%20Windsinger%20(quest)</loc></url>
 <url><loc>https://wowforeverpath.com/tr/quests/Making%20Repairs%20(Forever)</loc></url>
 <url><loc>https://wowforeverpath.com/tr/quests/Meal%20Appeal</loc></url>
 <url><loc>https://wowforeverpath.com/tr/quests/Moonbrook%20Espionage</loc></url>
@@ -9077,6 +9191,7 @@
 <url><loc>https://wowforeverpath.com/tr/quests/The%20Unsent%20Letter</loc></url>
 <url><loc>https://wowforeverpath.com/tr/quests/The%20Warrior's%20Path</loc></url>
 <url><loc>https://wowforeverpath.com/tr/quests/The%20Way%20of%20the%20Hunter</loc></url>
+<url><loc>https://wowforeverpath.com/tr/quests/The%20Windshaper's%20Wrath</loc></url>
 <url><loc>https://wowforeverpath.com/tr/quests/The%20Wrath%20of%20Rath'mael</loc></url>
 <url><loc>https://wowforeverpath.com/tr/quests/This%20Fruit%20Could%20Bite%20Back</loc></url>
 <url><loc>https://wowforeverpath.com/tr/quests/Thundering%20Hearts</loc></url>
@@ -9098,9 +9213,14 @@
 <url><loc>https://wowforeverpath.com/tr/quests/Watching%20the%20Roads</loc></url>
 <url><loc>https://wowforeverpath.com/tr/quests/Wayward%20Weapons</loc></url>
 <url><loc>https://wowforeverpath.com/tr/quests/Welcome!%20(Thendal%20Grove)</loc></url>
+<url><loc>https://wowforeverpath.com/tr/quests/What%20Comes%20Next%20(Alliance)</loc></url>
+<url><loc>https://wowforeverpath.com/tr/quests/What%20Comes%20Next%20(Horde)</loc></url>
+<url><loc>https://wowforeverpath.com/tr/quests/Whispering%20Horror%20Residue%20(quest)</loc></url>
 <url><loc>https://wowforeverpath.com/tr/quests/Whuut's%20the%20Rush</loc></url>
 <url><loc>https://wowforeverpath.com/tr/quests/Wild%20Eyes</loc></url>
+<url><loc>https://wowforeverpath.com/tr/quests/Wrongly%20Blamed,%20Justly%20Corrected</loc></url>
 <url><loc>https://wowforeverpath.com/tr/quests/Yelmak's%20Medley</loc></url>
+<url><loc>https://wowforeverpath.com/tr/quests/Your%20Package%20Has%20Arrived</loc></url>
 <url><loc>https://wowforeverpath.com/tr/races</loc></url>
 <url><loc>https://wowforeverpath.com/tr/races/dwarf</loc></url>
 <url><loc>https://wowforeverpath.com/tr/races/gnome</loc></url>
@@ -9614,11 +9734,13 @@
 <url><loc>https://wowforeverpath.com/zh-CN/addons</loc></url>
 <url><loc>https://wowforeverpath.com/zh-CN/beta</loc></url>
 <url><loc>https://wowforeverpath.com/zh-CN/beta/builds/1</loc></url>
+<url><loc>https://wowforeverpath.com/zh-CN/beta/builds/10</loc></url>
 <url><loc>https://wowforeverpath.com/zh-CN/beta/builds/4</loc></url>
 <url><loc>https://wowforeverpath.com/zh-CN/beta/builds/5</loc></url>
 <url><loc>https://wowforeverpath.com/zh-CN/beta/builds/6</loc></url>
 <url><loc>https://wowforeverpath.com/zh-CN/beta/builds/7</loc></url>
 <url><loc>https://wowforeverpath.com/zh-CN/beta/builds/8</loc></url>
+<url><loc>https://wowforeverpath.com/zh-CN/beta/builds/9</loc></url>
 <url><loc>https://wowforeverpath.com/zh-CN/books</loc></url>
 <url><loc>https://wowforeverpath.com/zh-CN/changes/druid</loc></url>
 <url><loc>https://wowforeverpath.com/zh-CN/changes/hunter</loc></url>
@@ -9917,6 +10039,7 @@
 <url><loc>https://wowforeverpath.com/zh-CN/quests/Al'Aketh%20Thugs</loc></url>
 <url><loc>https://wowforeverpath.com/zh-CN/quests/An%20Alarming%20Request</loc></url>
 <url><loc>https://wowforeverpath.com/zh-CN/quests/An%20Ancient%20Grudge</loc></url>
+<url><loc>https://wowforeverpath.com/zh-CN/quests/Arugal's%20Folly%20(5)</loc></url>
 <url><loc>https://wowforeverpath.com/zh-CN/quests/As%20Above,%20So%20Below</loc></url>
 <url><loc>https://wowforeverpath.com/zh-CN/quests/At%20Home%20in%20the%20Shadows</loc></url>
 <url><loc>https://wowforeverpath.com/zh-CN/quests/Bandarion%20Keep%20(quest)</loc></url>
@@ -9940,6 +10063,7 @@
 <url><loc>https://wowforeverpath.com/zh-CN/quests/Destruction%20in%20Deadmines%20(2)</loc></url>
 <url><loc>https://wowforeverpath.com/zh-CN/quests/Detonation%20at%20a%20Distance</loc></url>
 <url><loc>https://wowforeverpath.com/zh-CN/quests/Detonation%20at%20a%20Distance%20(2)</loc></url>
+<url><loc>https://wowforeverpath.com/zh-CN/quests/Diplomatic%20Incident</loc></url>
 <url><loc>https://wowforeverpath.com/zh-CN/quests/Discipline%20(Forever)</loc></url>
 <url><loc>https://wowforeverpath.com/zh-CN/quests/Downstream</loc></url>
 <url><loc>https://wowforeverpath.com/zh-CN/quests/Dragonmaw%20Rumors</loc></url>
@@ -9968,6 +10092,7 @@
 <url><loc>https://wowforeverpath.com/zh-CN/quests/Horrors%20in%20the%20Highland</loc></url>
 <url><loc>https://wowforeverpath.com/zh-CN/quests/Important%20Heirlooms</loc></url>
 <url><loc>https://wowforeverpath.com/zh-CN/quests/Infestation%20Investigation</loc></url>
+<url><loc>https://wowforeverpath.com/zh-CN/quests/Into%20Fenris%20Keep</loc></url>
 <url><loc>https://wowforeverpath.com/zh-CN/quests/Key%20to%20the%20City%20(Forever)</loc></url>
 <url><loc>https://wowforeverpath.com/zh-CN/quests/Legging%20It</loc></url>
 <url><loc>https://wowforeverpath.com/zh-CN/quests/Leonid's%20Letter</loc></url>
@@ -9975,6 +10100,7 @@
 <url><loc>https://wowforeverpath.com/zh-CN/quests/Lost%20Relic%20Carry</loc></url>
 <url><loc>https://wowforeverpath.com/zh-CN/quests/Lost%20in%20the%20Shadows</loc></url>
 <url><loc>https://wowforeverpath.com/zh-CN/quests/Lost%20in%20the%20Thicket%20Things</loc></url>
+<url><loc>https://wowforeverpath.com/zh-CN/quests/Lumina%20Windsinger%20(quest)</loc></url>
 <url><loc>https://wowforeverpath.com/zh-CN/quests/Making%20Repairs%20(Forever)</loc></url>
 <url><loc>https://wowforeverpath.com/zh-CN/quests/Meal%20Appeal</loc></url>
 <url><loc>https://wowforeverpath.com/zh-CN/quests/Moonbrook%20Espionage</loc></url>
@@ -10037,6 +10163,7 @@
 <url><loc>https://wowforeverpath.com/zh-CN/quests/The%20Unsent%20Letter</loc></url>
 <url><loc>https://wowforeverpath.com/zh-CN/quests/The%20Warrior's%20Path</loc></url>
 <url><loc>https://wowforeverpath.com/zh-CN/quests/The%20Way%20of%20the%20Hunter</loc></url>
+<url><loc>https://wowforeverpath.com/zh-CN/quests/The%20Windshaper's%20Wrath</loc></url>
 <url><loc>https://wowforeverpath.com/zh-CN/quests/The%20Wrath%20of%20Rath'mael</loc></url>
 <url><loc>https://wowforeverpath.com/zh-CN/quests/This%20Fruit%20Could%20Bite%20Back</loc></url>
 <url><loc>https://wowforeverpath.com/zh-CN/quests/Thundering%20Hearts</loc></url>
@@ -10058,9 +10185,14 @@
 <url><loc>https://wowforeverpath.com/zh-CN/quests/Watching%20the%20Roads</loc></url>
 <url><loc>https://wowforeverpath.com/zh-CN/quests/Wayward%20Weapons</loc></url>
 <url><loc>https://wowforeverpath.com/zh-CN/quests/Welcome!%20(Thendal%20Grove)</loc></url>
+<url><loc>https://wowforeverpath.com/zh-CN/quests/What%20Comes%20Next%20(Alliance)</loc></url>
+<url><loc>https://wowforeverpath.com/zh-CN/quests/What%20Comes%20Next%20(Horde)</loc></url>
+<url><loc>https://wowforeverpath.com/zh-CN/quests/Whispering%20Horror%20Residue%20(quest)</loc></url>
 <url><loc>https://wowforeverpath.com/zh-CN/quests/Whuut's%20the%20Rush</loc></url>
 <url><loc>https://wowforeverpath.com/zh-CN/quests/Wild%20Eyes</loc></url>
+<url><loc>https://wowforeverpath.com/zh-CN/quests/Wrongly%20Blamed,%20Justly%20Corrected</loc></url>
 <url><loc>https://wowforeverpath.com/zh-CN/quests/Yelmak's%20Medley</loc></url>
+<url><loc>https://wowforeverpath.com/zh-CN/quests/Your%20Package%20Has%20Arrived</loc></url>
 <url><loc>https://wowforeverpath.com/zh-CN/races</loc></url>
 <url><loc>https://wowforeverpath.com/zh-CN/races/dwarf</loc></url>
 <url><loc>https://wowforeverpath.com/zh-CN/races/gnome</loc></url>
@@ -10574,11 +10706,13 @@
 <url><loc>https://wowforeverpath.com/zh-TW/addons</loc></url>
 <url><loc>https://wowforeverpath.com/zh-TW/beta</loc></url>
 <url><loc>https://wowforeverpath.com/zh-TW/beta/builds/1</loc></url>
+<url><loc>https://wowforeverpath.com/zh-TW/beta/builds/10</loc></url>
 <url><loc>https://wowforeverpath.com/zh-TW/beta/builds/4</loc></url>
 <url><loc>https://wowforeverpath.com/zh-TW/beta/builds/5</loc></url>
 <url><loc>https://wowforeverpath.com/zh-TW/beta/builds/6</loc></url>
 <url><loc>https://wowforeverpath.com/zh-TW/beta/builds/7</loc></url>
 <url><loc>https://wowforeverpath.com/zh-TW/beta/builds/8</loc></url>
+<url><loc>https://wowforeverpath.com/zh-TW/beta/builds/9</loc></url>
 <url><loc>https://wowforeverpath.com/zh-TW/books</loc></url>
 <url><loc>https://wowforeverpath.com/zh-TW/changes/druid</loc></url>
 <url><loc>https://wowforeverpath.com/zh-TW/changes/hunter</loc></url>
@@ -10877,6 +11011,7 @@
 <url><loc>https://wowforeverpath.com/zh-TW/quests/Al'Aketh%20Thugs</loc></url>
 <url><loc>https://wowforeverpath.com/zh-TW/quests/An%20Alarming%20Request</loc></url>
 <url><loc>https://wowforeverpath.com/zh-TW/quests/An%20Ancient%20Grudge</loc></url>
+<url><loc>https://wowforeverpath.com/zh-TW/quests/Arugal's%20Folly%20(5)</loc></url>
 <url><loc>https://wowforeverpath.com/zh-TW/quests/As%20Above,%20So%20Below</loc></url>
 <url><loc>https://wowforeverpath.com/zh-TW/quests/At%20Home%20in%20the%20Shadows</loc></url>
 <url><loc>https://wowforeverpath.com/zh-TW/quests/Bandarion%20Keep%20(quest)</loc></url>
@@ -10900,6 +11035,7 @@
 <url><loc>https://wowforeverpath.com/zh-TW/quests/Destruction%20in%20Deadmines%20(2)</loc></url>
 <url><loc>https://wowforeverpath.com/zh-TW/quests/Detonation%20at%20a%20Distance</loc></url>
 <url><loc>https://wowforeverpath.com/zh-TW/quests/Detonation%20at%20a%20Distance%20(2)</loc></url>
+<url><loc>https://wowforeverpath.com/zh-TW/quests/Diplomatic%20Incident</loc></url>
 <url><loc>https://wowforeverpath.com/zh-TW/quests/Discipline%20(Forever)</loc></url>
 <url><loc>https://wowforeverpath.com/zh-TW/quests/Downstream</loc></url>
 <url><loc>https://wowforeverpath.com/zh-TW/quests/Dragonmaw%20Rumors</loc></url>
@@ -10928,6 +11064,7 @@
 <url><loc>https://wowforeverpath.com/zh-TW/quests/Horrors%20in%20the%20Highland</loc></url>
 <url><loc>https://wowforeverpath.com/zh-TW/quests/Important%20Heirlooms</loc></url>
 <url><loc>https://wowforeverpath.com/zh-TW/quests/Infestation%20Investigation</loc></url>
+<url><loc>https://wowforeverpath.com/zh-TW/quests/Into%20Fenris%20Keep</loc></url>
 <url><loc>https://wowforeverpath.com/zh-TW/quests/Key%20to%20the%20City%20(Forever)</loc></url>
 <url><loc>https://wowforeverpath.com/zh-TW/quests/Legging%20It</loc></url>
 <url><loc>https://wowforeverpath.com/zh-TW/quests/Leonid's%20Letter</loc></url>
@@ -10935,6 +11072,7 @@
 <url><loc>https://wowforeverpath.com/zh-TW/quests/Lost%20Relic%20Carry</loc></url>
 <url><loc>https://wowforeverpath.com/zh-TW/quests/Lost%20in%20the%20Shadows</loc></url>
 <url><loc>https://wowforeverpath.com/zh-TW/quests/Lost%20in%20the%20Thicket%20Things</loc></url>
+<url><loc>https://wowforeverpath.com/zh-TW/quests/Lumina%20Windsinger%20(quest)</loc></url>
 <url><loc>https://wowforeverpath.com/zh-TW/quests/Making%20Repairs%20(Forever)</loc></url>
 <url><loc>https://wowforeverpath.com/zh-TW/quests/Meal%20Appeal</loc></url>
 <url><loc>https://wowforeverpath.com/zh-TW/quests/Moonbrook%20Espionage</loc></url>
@@ -10997,6 +11135,7 @@
 <url><loc>https://wowforeverpath.com/zh-TW/quests/The%20Unsent%20Letter</loc></url>
 <url><loc>https://wowforeverpath.com/zh-TW/quests/The%20Warrior's%20Path</loc></url>
 <url><loc>https://wowforeverpath.com/zh-TW/quests/The%20Way%20of%20the%20Hunter</loc></url>
+<url><loc>https://wowforeverpath.com/zh-TW/quests/The%20Windshaper's%20Wrath</loc></url>
 <url><loc>https://wowforeverpath.com/zh-TW/quests/The%20Wrath%20of%20Rath'mael</loc></url>
 <url><loc>https://wowforeverpath.com/zh-TW/quests/This%20Fruit%20Could%20Bite%20Back</loc></url>
 <url><loc>https://wowforeverpath.com/zh-TW/quests/Thundering%20Hearts</loc></url>
@@ -11018,9 +11157,14 @@
 <url><loc>https://wowforeverpath.com/zh-TW/quests/Watching%20the%20Roads</loc></url>
 <url><loc>https://wowforeverpath.com/zh-TW/quests/Wayward%20Weapons</loc></url>
 <url><loc>https://wowforeverpath.com/zh-TW/quests/Welcome!%20(Thendal%20Grove)</loc></url>
+<url><loc>https://wowforeverpath.com/zh-TW/quests/What%20Comes%20Next%20(Alliance)</loc></url>
+<url><loc>https://wowforeverpath.com/zh-TW/quests/What%20Comes%20Next%20(Horde)</loc></url>
+<url><loc>https://wowforeverpath.com/zh-TW/quests/Whispering%20Horror%20Residue%20(quest)</loc></url>
 <url><loc>https://wowforeverpath.com/zh-TW/quests/Whuut's%20the%20Rush</loc></url>
 <url><loc>https://wowforeverpath.com/zh-TW/quests/Wild%20Eyes</loc></url>
+<url><loc>https://wowforeverpath.com/zh-TW/quests/Wrongly%20Blamed,%20Justly%20Corrected</loc></url>
 <url><loc>https://wowforeverpath.com/zh-TW/quests/Yelmak's%20Medley</loc></url>
+<url><loc>https://wowforeverpath.com/zh-TW/quests/Your%20Package%20Has%20Arrived</loc></url>
 <url><loc>https://wowforeverpath.com/zh-TW/races</loc></url>
 <url><loc>https://wowforeverpath.com/zh-TW/races/dwarf</loc></url>
 <url><loc>https://wowforeverpath.com/zh-TW/races/gnome</loc></url>
