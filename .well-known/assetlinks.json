@@ -1,0 +1,15 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "ai.kolcu.wowforeverpath",
+      "sha256_cert_fingerprints": [
+        "57:6D:95:82:D0:3F:64:F6:40:44:E3:B4:5E:06:AA:6B:14:0B:3C:CD:17:26:2B:9B:A6:E7:7A:CA:61:15:D7:3E",
+        "C3:6C:0A:35:59:F6:20:7A:1F:E0:3C:1B:BD:99:F1:BD:83:4C:20:00:B7:F2:44:D6:EE:57:24:79:98:11:C0:75"
+      ]
+    }
+  }
+]

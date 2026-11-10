@@ -1,0 +1,56 @@
+{
+  "build": "1.60.1.70532",
+  "tileSize": 512,
+  "nativeZoom": 8,
+  "minZoom": 0,
+  "cols": 68,
+  "rows": 46,
+  "adtYards": 533.3333333333334,
+  "continents": {
+    "kalimdor": {
+      "mapId": 1,
+      "name": "Kalimdor",
+      "colOffset": -19,
+      "rowOffset": -8,
+      "adtCol": [
+        19,
+        56
+      ],
+      "adtRow": [
+        9,
+        53
+      ],
+      "tiles": 1060,
+      "skippedPlaceholders": 45
+    },
+    "azeroth": {
+      "mapId": 0,
+      "name": "Eastern Kingdoms",
+      "colOffset": 22,
+      "rowOffset": -17,
+      "adtCol": [
+        17,
+        45
+      ],
+      "adtRow": [
+        23,
+        61
+      ],
+      "tiles": 849,
+      "skippedPlaceholders": 335
+    }
+  },
+  "tilesPerZoom": {
+    "0": 1,
+    "1": 1,
+    "2": 2,
+    "3": 6,
+    "4": 14,
+    "5": 43,
+    "6": 120,
+    "7": 382,
+    "8": 1308
+  },
+  "source": "World of Warcraft: Forever beta client minimap textures (world/minimaps), fetched per build from wago.tools CASC; \u00a9 Blizzard Entertainment",
+  "generatedAt": "2026-10-24T17:43:28Z"
+}

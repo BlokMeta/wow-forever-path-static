@@ -1,0 +1,59 @@
+{
+  "version": 1,
+  "updatedAt": "2026-11-09",
+  "patch": "1.60.1 · Nov 10 Class Tuning",
+  "profiles": {
+    "shaman-enhancement": {
+      "pve": ["strength", "attack-power", "hit", "crit", "intellect", "spell-power"],
+      "pvp": ["stamina", "strength", "attack-power", "crit", "hit", "intellect"]
+    },
+    "paladin-retribution": {
+      "pve": ["hit", "strength", "crit", "attack-power", "intellect", "spell-power"],
+      "pvp": ["stamina", "strength", "crit", "attack-power", "hit", "intellect"]
+    },
+    "hunter-beast-mastery": {
+      "pve": ["hit", "agility", "crit", "ranged-attack-power", "intellect", "stamina"],
+      "pvp": ["stamina", "agility", "crit", "ranged-attack-power", "hit", "intellect"]
+    },
+    "hunter-marksmanship": {
+      "pve": ["hit", "agility", "crit", "ranged-attack-power", "intellect", "stamina"],
+      "pvp": ["stamina", "agility", "crit", "ranged-attack-power", "hit", "intellect"]
+    },
+    "warlock-affliction": {
+      "pve": ["hit", "spell-power", "crit", "intellect", "spirit", "stamina"],
+      "pvp": ["stamina", "spell-power", "hit", "crit", "intellect", "spirit"]
+    }
+  },
+  "specNotes": {
+    "shaman-enhancement": {
+      "tr": "10 Kasım 2026 Blizzard sınıf dengesi: Güç (Strength) ve Saldırı Gücü (Attack Power) her zaman birincil en güçlü stattır; Mage/Warlock kumaş ekipmanı yerine Güç/AP ağırlıklı (yanında Zekâ/Büyü Gücü taşıyan hibrit) ekipman toplanmalıdır.",
+      "en": "Nov 10, 2026 Blizzard class tuning: Strength and Attack Power are always your strongest primary stats; collect Strength/AP gear (ideally with hybrid Intellect/Spell Power) rather than Mage/Warlock caster gear."
+    },
+    "paladin-retribution": {
+      "tr": "Forever: Güç (Strength), Kritik ve Saldırı Gücü yakın dövüş/Seal temelini taşır; Champion of the Light Zekânın %60’ına kadar Büyü Hasarı eklediği için hibrit Güç + Zekâ parçaları ikincil katkı sağlar.",
+      "en": "Forever: Strength, Crit and Attack Power lead physical and Seal output; Champion of the Light adds up to 60% of Intellect as Spell Damage as secondary hybrid scaling."
+    },
+    "hunter-marksmanship": {
+      "tr": "Forever: Birleşik İsabet (Hit) ve Çeviklik (Agility: 2 RAP + Kritik) birincildir; Careful Aim Zekânın %100’üne kadar Saldırı Gücü ekler.",
+      "en": "Forever: Unified Hit and Agility (2 RAP + Crit) lead; Careful Aim converts up to 100% of Intellect into Attack Power."
+    },
+    "hunter-beast-mastery": {
+      "tr": "Forever: Evcil hayvanlar Hunter ekipmanıyla ölçeklenir ve 10 Kasım sınıf dengesiyle evcil hayvan tank dayanıklılığı Classic Era seviyesine yükseltildi.",
+      "en": "Forever: Pets scale from Hunter gear, and the Nov 10 class tuning restores pet tanking durability to Classic Era levels."
+    },
+    "warlock-affliction": {
+      "tr": "Forever: Pandemic ile DoT ve Wrack büyüleri +%100 kritik hasar bonusu alır; Life Tap Ruh (Spirit) ile ölçeklenir. 10 Kasım dengesiyle DoT’ları Wrack ile birlikte örmek her zaman optimaldir.",
+      "en": "Forever: Pandemic gives DoTs and Wrack +100% crit damage bonus, and Life Tap scales with Spirit. Nov 10 tuning keeps weaving DoTs alongside Wrack optimal."
+    }
+  },
+  "sources": [
+    {
+      "title": "Class Tuning Incoming (Nov 10) · 6 Nov 2026",
+      "url": "https://us.forums.blizzard.com/en/wow/t/class-tuning-incoming-november-10/2404092"
+    },
+    {
+      "title": "Dungeon Enemy XP Increased (+50%) · 8 Nov 2026",
+      "url": "https://us.forums.blizzard.com/en/wow/t/dungeon-enemy-xp-increased-november-8/2406595"
+    }
+  ]
+}
