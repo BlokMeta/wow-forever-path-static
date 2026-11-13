@@ -476,6 +476,7 @@ input::-webkit-search-cancel-button,input::-webkit-search-decoration,input::-web
 .r-ytbthy{padding-bottom:10px;padding-top:10px;}
 .r-ywh0we{padding-bottom:13px;padding-top:13px;}
 .r-zc94j3{padding-bottom:2.5px;padding-top:2.5px;}
+.r-zo2zu6{padding-bottom:24px;padding-top:24px;}
 [stylesheet-group="2.2"]{}
 .r-10s2tm5{left:0%;}
 .r-16o8guy{right:100%;}
@@ -629,7 +630,6 @@ input::-webkit-search-cancel-button,input::-webkit-search-decoration,input::-web
 .r-17tb59b{opacity:0.7;}
 .r-17tloay{opacity:0.6;}
 .r-17u3ijr{background-color:rgba(155,161,166,0.27);}
-.r-17w48nw{max-width:380px;}
 .r-184en5c{z-index:1;}
 .r-187fuq8{width:62%;}
 .r-18bj3io{min-width:28px;}
@@ -707,6 +707,7 @@ input::-webkit-search-cancel-button,input::-webkit-search-decoration,input::-web
 .r-1cg806a{max-width:120px;}
 .r-1cjb15w{background-color:rgba(8,10,14,0.30);}
 .r-1cm7zt9{letter-spacing:0.7px;}
+.r-1cmskyw{max-width:640px;}
 .r-1cmwbt1{gap:8px;}
 .r-1cuuowz{background-color:rgba(255,255,255,0.03);}
 .r-1cvj4g8{margin-top:1px;}
@@ -891,6 +892,7 @@ input::-webkit-search-cancel-button,input::-webkit-search-decoration,input::-web
 .r-1n2wlb7{background-color:rgba(36,6,9,0.95);}
 .r-1n4z8e8{flex-basis:150px;}
 .r-1n9hl4b{min-width:190px;}
+.r-1naamh8{background-color:rgba(255,255,255,0.28);}
 .r-1nd6qux{min-height:148px;}
 .r-1niwhzg{background-color:rgba(0,0,0,0.00);}
 .r-1nlw0im{bottom:8px;}
@@ -1264,6 +1266,7 @@ input::-webkit-search-cancel-button,input::-webkit-search-decoration,input::-web
 .r-dwliz8{border-left-width:2px;}
 .r-dxyuum{background-color:rgba(12,15,21,0.88);}
 .r-e0ym7l{border-left-color:rgba(201,165,79,1.00);}
+.r-e1k2in{right:16px;}
 .r-e4g8mg{border-left-color:rgba(42,48,59,1.00);}
 .r-e6f8wl{right:-9px;}
 .r-e6ktq0{gap:32px;}
@@ -1348,6 +1351,7 @@ input::-webkit-search-cancel-button,input::-webkit-search-decoration,input::-web
 .r-ipm5af{top:0px;}
 .r-irg0bu{font-size:1px;}
 .r-isnodc{margin-left:-2.5px;}
+.r-iz080l{max-width:480px;}
 .r-j1vcu1{width:11px;}
 .r-j2kj52{padding-right:12px;}
 .r-j76wpu{top:100%;}
@@ -1423,6 +1427,7 @@ input::-webkit-search-cancel-button,input::-webkit-search-decoration,input::-web
 .r-nwsyd6{background-color:rgba(67,76,90,1.00);}
 .r-nydnoy{margin-top:-12px;}
 .r-o0hnxh{border-bottom-color:rgba(255,255,255,0.07);}
+.r-o29g2o{height:30%;}
 .r-o2ur7x{transition-duration:150ms;}
 .r-o4n3w5{width:23px;}
 .r-o4qtl5{min-height:66px;}
