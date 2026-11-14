@@ -10,6 +10,7 @@
 (function(){
  var provider=new URLSearchParams(location.search).get('provider');
  if(['google','apple','x'].indexOf(provider)<0){location.replace('/');return;}
+ if(provider==='google'){location.replace("https://login.wowforeverpath.com/auth/google/start"+'?redirect_to='+encodeURIComponent("wowforeverpath://auth/callback"));return;}
  location.replace("https://jyjhlvhjemjvhpkhuoyi.supabase.co"+'/auth/v1/authorize?provider='+provider+'&redirect_to='+encodeURIComponent("wowforeverpath://auth/callback")+(provider==='google'?'&query_params=prompt%3Dselect_account':''));
 })();
 </script>
