@@ -309,6 +309,7 @@
 <url><loc>https://wowforeverpath.com/de/quests/A%20Missing%20Hand</loc></url>
 <url><loc>https://wowforeverpath.com/de/quests/A%20Moon-Kissed%20Blade</loc></url>
 <url><loc>https://wowforeverpath.com/de/quests/A%20Pain%20in%20the%20Neck</loc></url>
+<url><loc>https://wowforeverpath.com/de/quests/A%20Paladin's%20Steed</loc></url>
 <url><loc>https://wowforeverpath.com/de/quests/A%20Righteous%20Cause</loc></url>
 <url><loc>https://wowforeverpath.com/de/quests/A%20Second%20Home</loc></url>
 <url><loc>https://wowforeverpath.com/de/quests/A%20Student%20of%20Nature</loc></url>
@@ -359,6 +360,7 @@
 <url><loc>https://wowforeverpath.com/de/quests/Downstream</loc></url>
 <url><loc>https://wowforeverpath.com/de/quests/Dragonmaw%20Rumors</loc></url>
 <url><loc>https://wowforeverpath.com/de/quests/Earthen%20Echo</loc></url>
+<url><loc>https://wowforeverpath.com/de/quests/Easing%20Suffering</loc></url>
 <url><loc>https://wowforeverpath.com/de/quests/Elder%20Knowledge</loc></url>
 <url><loc>https://wowforeverpath.com/de/quests/Elemental%20Unrest%20(quest)</loc></url>
 <url><loc>https://wowforeverpath.com/de/quests/Eluvi'ana%20(quest)</loc></url>
@@ -399,6 +401,7 @@
 <url><loc>https://wowforeverpath.com/de/quests/Krol'dok%20Moulding%20(Horde)</loc></url>
 <url><loc>https://wowforeverpath.com/de/quests/Legging%20It</loc></url>
 <url><loc>https://wowforeverpath.com/de/quests/Leonid's%20Letter</loc></url>
+<url><loc>https://wowforeverpath.com/de/quests/Libram%20of%20Binding%20(quest)</loc></url>
 <url><loc>https://wowforeverpath.com/de/quests/Light's%20Justice%20(quest)</loc></url>
 <url><loc>https://wowforeverpath.com/de/quests/Lingering%20Essence</loc></url>
 <url><loc>https://wowforeverpath.com/de/quests/Lost%20Relic%20Carry</loc></url>
@@ -416,6 +419,7 @@
 <url><loc>https://wowforeverpath.com/de/quests/Nature's%20Call%20(Forever)</loc></url>
 <url><loc>https://wowforeverpath.com/de/quests/Never%20Saddle%20on%20Quality</loc></url>
 <url><loc>https://wowforeverpath.com/de/quests/Nip%20'Em%20in%20the%20Bud</loc></url>
+<url><loc>https://wowforeverpath.com/de/quests/Not%20Dead%20Yet</loc></url>
 <url><loc>https://wowforeverpath.com/de/quests/Old%20Fire-Eye%20(quest)</loc></url>
 <url><loc>https://wowforeverpath.com/de/quests/Old%20Ironforge%20Incursion</loc></url>
 <url><loc>https://wowforeverpath.com/de/quests/Open%20the%20Maw</loc></url>
@@ -445,13 +449,16 @@
 <url><loc>https://wowforeverpath.com/de/quests/Seeking%20Caitlin</loc></url>
 <url><loc>https://wowforeverpath.com/de/quests/Seeking%20Refuge</loc></url>
 <url><loc>https://wowforeverpath.com/de/quests/Shrewd%20Negotiations</loc></url>
+<url><loc>https://wowforeverpath.com/de/quests/Silver%20of%20the%20Waves</loc></url>
 <url><loc>https://wowforeverpath.com/de/quests/Songblade%20Search</loc></url>
 <url><loc>https://wowforeverpath.com/de/quests/Source%20of%20Power</loc></url>
 <url><loc>https://wowforeverpath.com/de/quests/Starving%20Arcane</loc></url>
 <url><loc>https://wowforeverpath.com/de/quests/State%20Secrets%20(Alliance)</loc></url>
 <url><loc>https://wowforeverpath.com/de/quests/State%20Secrets%20(Horde)</loc></url>
+<url><loc>https://wowforeverpath.com/de/quests/State%20Secrets%20(Neutral)</loc></url>
 <url><loc>https://wowforeverpath.com/de/quests/Sticks%20and%20Bones%20(Forever)</loc></url>
 <url><loc>https://wowforeverpath.com/de/quests/Stolen%20Enchanting%20Supplies%20(quest)</loc></url>
+<url><loc>https://wowforeverpath.com/de/quests/Stop%20the%20Spread%20(Forever)</loc></url>
 <url><loc>https://wowforeverpath.com/de/quests/Stormwind's%20High%20Order</loc></url>
 <url><loc>https://wowforeverpath.com/de/quests/Testing%20the%20Wells</loc></url>
 <url><loc>https://wowforeverpath.com/de/quests/That%20Shadowvale%20Green%20Elixir</loc></url>
@@ -471,7 +478,9 @@
 <url><loc>https://wowforeverpath.com/de/quests/The%20Gift%20of%20Skysight</loc></url>
 <url><loc>https://wowforeverpath.com/de/quests/The%20Grave%20Knight</loc></url>
 <url><loc>https://wowforeverpath.com/de/quests/The%20Great%20Outdoors%20(Forever)</loc></url>
+<url><loc>https://wowforeverpath.com/de/quests/The%20Great%20Tree%20Provides</loc></url>
 <url><loc>https://wowforeverpath.com/de/quests/The%20Hermit%20Tanner</loc></url>
+<url><loc>https://wowforeverpath.com/de/quests/The%20Lost%20Runner</loc></url>
 <url><loc>https://wowforeverpath.com/de/quests/The%20Man%20in%20the%20Iron%20Chains</loc></url>
 <url><loc>https://wowforeverpath.com/de/quests/The%20Monster%20Surfaces</loc></url>
 <url><loc>https://wowforeverpath.com/de/quests/The%20Moonsilver%20Blade</loc></url>
@@ -1324,6 +1333,7 @@
 <url><loc>https://wowforeverpath.com/en/quests/A%20Missing%20Hand</loc></url>
 <url><loc>https://wowforeverpath.com/en/quests/A%20Moon-Kissed%20Blade</loc></url>
 <url><loc>https://wowforeverpath.com/en/quests/A%20Pain%20in%20the%20Neck</loc></url>
+<url><loc>https://wowforeverpath.com/en/quests/A%20Paladin's%20Steed</loc></url>
 <url><loc>https://wowforeverpath.com/en/quests/A%20Righteous%20Cause</loc></url>
 <url><loc>https://wowforeverpath.com/en/quests/A%20Second%20Home</loc></url>
 <url><loc>https://wowforeverpath.com/en/quests/A%20Student%20of%20Nature</loc></url>
@@ -1374,6 +1384,7 @@
 <url><loc>https://wowforeverpath.com/en/quests/Downstream</loc></url>
 <url><loc>https://wowforeverpath.com/en/quests/Dragonmaw%20Rumors</loc></url>
 <url><loc>https://wowforeverpath.com/en/quests/Earthen%20Echo</loc></url>
+<url><loc>https://wowforeverpath.com/en/quests/Easing%20Suffering</loc></url>
 <url><loc>https://wowforeverpath.com/en/quests/Elder%20Knowledge</loc></url>
 <url><loc>https://wowforeverpath.com/en/quests/Elemental%20Unrest%20(quest)</loc></url>
 <url><loc>https://wowforeverpath.com/en/quests/Eluvi'ana%20(quest)</loc></url>
@@ -1414,6 +1425,7 @@
 <url><loc>https://wowforeverpath.com/en/quests/Krol'dok%20Moulding%20(Horde)</loc></url>
 <url><loc>https://wowforeverpath.com/en/quests/Legging%20It</loc></url>
 <url><loc>https://wowforeverpath.com/en/quests/Leonid's%20Letter</loc></url>
+<url><loc>https://wowforeverpath.com/en/quests/Libram%20of%20Binding%20(quest)</loc></url>
 <url><loc>https://wowforeverpath.com/en/quests/Light's%20Justice%20(quest)</loc></url>
 <url><loc>https://wowforeverpath.com/en/quests/Lingering%20Essence</loc></url>
 <url><loc>https://wowforeverpath.com/en/quests/Lost%20Relic%20Carry</loc></url>
@@ -1431,6 +1443,7 @@
 <url><loc>https://wowforeverpath.com/en/quests/Nature's%20Call%20(Forever)</loc></url>
 <url><loc>https://wowforeverpath.com/en/quests/Never%20Saddle%20on%20Quality</loc></url>
 <url><loc>https://wowforeverpath.com/en/quests/Nip%20'Em%20in%20the%20Bud</loc></url>
+<url><loc>https://wowforeverpath.com/en/quests/Not%20Dead%20Yet</loc></url>
 <url><loc>https://wowforeverpath.com/en/quests/Old%20Fire-Eye%20(quest)</loc></url>
 <url><loc>https://wowforeverpath.com/en/quests/Old%20Ironforge%20Incursion</loc></url>
 <url><loc>https://wowforeverpath.com/en/quests/Open%20the%20Maw</loc></url>
@@ -1460,13 +1473,16 @@
 <url><loc>https://wowforeverpath.com/en/quests/Seeking%20Caitlin</loc></url>
 <url><loc>https://wowforeverpath.com/en/quests/Seeking%20Refuge</loc></url>
 <url><loc>https://wowforeverpath.com/en/quests/Shrewd%20Negotiations</loc></url>
+<url><loc>https://wowforeverpath.com/en/quests/Silver%20of%20the%20Waves</loc></url>
 <url><loc>https://wowforeverpath.com/en/quests/Songblade%20Search</loc></url>
 <url><loc>https://wowforeverpath.com/en/quests/Source%20of%20Power</loc></url>
 <url><loc>https://wowforeverpath.com/en/quests/Starving%20Arcane</loc></url>
 <url><loc>https://wowforeverpath.com/en/quests/State%20Secrets%20(Alliance)</loc></url>
 <url><loc>https://wowforeverpath.com/en/quests/State%20Secrets%20(Horde)</loc></url>
+<url><loc>https://wowforeverpath.com/en/quests/State%20Secrets%20(Neutral)</loc></url>
 <url><loc>https://wowforeverpath.com/en/quests/Sticks%20and%20Bones%20(Forever)</loc></url>
 <url><loc>https://wowforeverpath.com/en/quests/Stolen%20Enchanting%20Supplies%20(quest)</loc></url>
+<url><loc>https://wowforeverpath.com/en/quests/Stop%20the%20Spread%20(Forever)</loc></url>
 <url><loc>https://wowforeverpath.com/en/quests/Stormwind's%20High%20Order</loc></url>
 <url><loc>https://wowforeverpath.com/en/quests/Testing%20the%20Wells</loc></url>
 <url><loc>https://wowforeverpath.com/en/quests/That%20Shadowvale%20Green%20Elixir</loc></url>
@@ -1486,7 +1502,9 @@
 <url><loc>https://wowforeverpath.com/en/quests/The%20Gift%20of%20Skysight</loc></url>
 <url><loc>https://wowforeverpath.com/en/quests/The%20Grave%20Knight</loc></url>
 <url><loc>https://wowforeverpath.com/en/quests/The%20Great%20Outdoors%20(Forever)</loc></url>
+<url><loc>https://wowforeverpath.com/en/quests/The%20Great%20Tree%20Provides</loc></url>
 <url><loc>https://wowforeverpath.com/en/quests/The%20Hermit%20Tanner</loc></url>
+<url><loc>https://wowforeverpath.com/en/quests/The%20Lost%20Runner</loc></url>
 <url><loc>https://wowforeverpath.com/en/quests/The%20Man%20in%20the%20Iron%20Chains</loc></url>
 <url><loc>https://wowforeverpath.com/en/quests/The%20Monster%20Surfaces</loc></url>
 <url><loc>https://wowforeverpath.com/en/quests/The%20Moonsilver%20Blade</loc></url>
@@ -2340,6 +2358,7 @@
 <url><loc>https://wowforeverpath.com/es-MX/quests/A%20Missing%20Hand</loc></url>
 <url><loc>https://wowforeverpath.com/es-MX/quests/A%20Moon-Kissed%20Blade</loc></url>
 <url><loc>https://wowforeverpath.com/es-MX/quests/A%20Pain%20in%20the%20Neck</loc></url>
+<url><loc>https://wowforeverpath.com/es-MX/quests/A%20Paladin's%20Steed</loc></url>
 <url><loc>https://wowforeverpath.com/es-MX/quests/A%20Righteous%20Cause</loc></url>
 <url><loc>https://wowforeverpath.com/es-MX/quests/A%20Second%20Home</loc></url>
 <url><loc>https://wowforeverpath.com/es-MX/quests/A%20Student%20of%20Nature</loc></url>
@@ -2390,6 +2409,7 @@
 <url><loc>https://wowforeverpath.com/es-MX/quests/Downstream</loc></url>
 <url><loc>https://wowforeverpath.com/es-MX/quests/Dragonmaw%20Rumors</loc></url>
 <url><loc>https://wowforeverpath.com/es-MX/quests/Earthen%20Echo</loc></url>
+<url><loc>https://wowforeverpath.com/es-MX/quests/Easing%20Suffering</loc></url>
 <url><loc>https://wowforeverpath.com/es-MX/quests/Elder%20Knowledge</loc></url>
 <url><loc>https://wowforeverpath.com/es-MX/quests/Elemental%20Unrest%20(quest)</loc></url>
 <url><loc>https://wowforeverpath.com/es-MX/quests/Eluvi'ana%20(quest)</loc></url>
@@ -2430,6 +2450,7 @@
 <url><loc>https://wowforeverpath.com/es-MX/quests/Krol'dok%20Moulding%20(Horde)</loc></url>
 <url><loc>https://wowforeverpath.com/es-MX/quests/Legging%20It</loc></url>
 <url><loc>https://wowforeverpath.com/es-MX/quests/Leonid's%20Letter</loc></url>
+<url><loc>https://wowforeverpath.com/es-MX/quests/Libram%20of%20Binding%20(quest)</loc></url>
 <url><loc>https://wowforeverpath.com/es-MX/quests/Light's%20Justice%20(quest)</loc></url>
 <url><loc>https://wowforeverpath.com/es-MX/quests/Lingering%20Essence</loc></url>
 <url><loc>https://wowforeverpath.com/es-MX/quests/Lost%20Relic%20Carry</loc></url>
@@ -2447,6 +2468,7 @@
 <url><loc>https://wowforeverpath.com/es-MX/quests/Nature's%20Call%20(Forever)</loc></url>
 <url><loc>https://wowforeverpath.com/es-MX/quests/Never%20Saddle%20on%20Quality</loc></url>
 <url><loc>https://wowforeverpath.com/es-MX/quests/Nip%20'Em%20in%20the%20Bud</loc></url>
+<url><loc>https://wowforeverpath.com/es-MX/quests/Not%20Dead%20Yet</loc></url>
 <url><loc>https://wowforeverpath.com/es-MX/quests/Old%20Fire-Eye%20(quest)</loc></url>
 <url><loc>https://wowforeverpath.com/es-MX/quests/Old%20Ironforge%20Incursion</loc></url>
 <url><loc>https://wowforeverpath.com/es-MX/quests/Open%20the%20Maw</loc></url>
@@ -2476,13 +2498,16 @@
 <url><loc>https://wowforeverpath.com/es-MX/quests/Seeking%20Caitlin</loc></url>
 <url><loc>https://wowforeverpath.com/es-MX/quests/Seeking%20Refuge</loc></url>
 <url><loc>https://wowforeverpath.com/es-MX/quests/Shrewd%20Negotiations</loc></url>
+<url><loc>https://wowforeverpath.com/es-MX/quests/Silver%20of%20the%20Waves</loc></url>
 <url><loc>https://wowforeverpath.com/es-MX/quests/Songblade%20Search</loc></url>
 <url><loc>https://wowforeverpath.com/es-MX/quests/Source%20of%20Power</loc></url>
 <url><loc>https://wowforeverpath.com/es-MX/quests/Starving%20Arcane</loc></url>
 <url><loc>https://wowforeverpath.com/es-MX/quests/State%20Secrets%20(Alliance)</loc></url>
 <url><loc>https://wowforeverpath.com/es-MX/quests/State%20Secrets%20(Horde)</loc></url>
+<url><loc>https://wowforeverpath.com/es-MX/quests/State%20Secrets%20(Neutral)</loc></url>
 <url><loc>https://wowforeverpath.com/es-MX/quests/Sticks%20and%20Bones%20(Forever)</loc></url>
 <url><loc>https://wowforeverpath.com/es-MX/quests/Stolen%20Enchanting%20Supplies%20(quest)</loc></url>
+<url><loc>https://wowforeverpath.com/es-MX/quests/Stop%20the%20Spread%20(Forever)</loc></url>
 <url><loc>https://wowforeverpath.com/es-MX/quests/Stormwind's%20High%20Order</loc></url>
 <url><loc>https://wowforeverpath.com/es-MX/quests/Testing%20the%20Wells</loc></url>
 <url><loc>https://wowforeverpath.com/es-MX/quests/That%20Shadowvale%20Green%20Elixir</loc></url>
@@ -2502,7 +2527,9 @@
 <url><loc>https://wowforeverpath.com/es-MX/quests/The%20Gift%20of%20Skysight</loc></url>
 <url><loc>https://wowforeverpath.com/es-MX/quests/The%20Grave%20Knight</loc></url>
 <url><loc>https://wowforeverpath.com/es-MX/quests/The%20Great%20Outdoors%20(Forever)</loc></url>
+<url><loc>https://wowforeverpath.com/es-MX/quests/The%20Great%20Tree%20Provides</loc></url>
 <url><loc>https://wowforeverpath.com/es-MX/quests/The%20Hermit%20Tanner</loc></url>
+<url><loc>https://wowforeverpath.com/es-MX/quests/The%20Lost%20Runner</loc></url>
 <url><loc>https://wowforeverpath.com/es-MX/quests/The%20Man%20in%20the%20Iron%20Chains</loc></url>
 <url><loc>https://wowforeverpath.com/es-MX/quests/The%20Monster%20Surfaces</loc></url>
 <url><loc>https://wowforeverpath.com/es-MX/quests/The%20Moonsilver%20Blade</loc></url>
@@ -3354,6 +3381,7 @@
 <url><loc>https://wowforeverpath.com/es/quests/A%20Missing%20Hand</loc></url>
 <url><loc>https://wowforeverpath.com/es/quests/A%20Moon-Kissed%20Blade</loc></url>
 <url><loc>https://wowforeverpath.com/es/quests/A%20Pain%20in%20the%20Neck</loc></url>
+<url><loc>https://wowforeverpath.com/es/quests/A%20Paladin's%20Steed</loc></url>
 <url><loc>https://wowforeverpath.com/es/quests/A%20Righteous%20Cause</loc></url>
 <url><loc>https://wowforeverpath.com/es/quests/A%20Second%20Home</loc></url>
 <url><loc>https://wowforeverpath.com/es/quests/A%20Student%20of%20Nature</loc></url>
@@ -3404,6 +3432,7 @@
 <url><loc>https://wowforeverpath.com/es/quests/Downstream</loc></url>
 <url><loc>https://wowforeverpath.com/es/quests/Dragonmaw%20Rumors</loc></url>
 <url><loc>https://wowforeverpath.com/es/quests/Earthen%20Echo</loc></url>
+<url><loc>https://wowforeverpath.com/es/quests/Easing%20Suffering</loc></url>
 <url><loc>https://wowforeverpath.com/es/quests/Elder%20Knowledge</loc></url>
 <url><loc>https://wowforeverpath.com/es/quests/Elemental%20Unrest%20(quest)</loc></url>
 <url><loc>https://wowforeverpath.com/es/quests/Eluvi'ana%20(quest)</loc></url>
@@ -3444,6 +3473,7 @@
 <url><loc>https://wowforeverpath.com/es/quests/Krol'dok%20Moulding%20(Horde)</loc></url>
 <url><loc>https://wowforeverpath.com/es/quests/Legging%20It</loc></url>
 <url><loc>https://wowforeverpath.com/es/quests/Leonid's%20Letter</loc></url>
+<url><loc>https://wowforeverpath.com/es/quests/Libram%20of%20Binding%20(quest)</loc></url>
 <url><loc>https://wowforeverpath.com/es/quests/Light's%20Justice%20(quest)</loc></url>
 <url><loc>https://wowforeverpath.com/es/quests/Lingering%20Essence</loc></url>
 <url><loc>https://wowforeverpath.com/es/quests/Lost%20Relic%20Carry</loc></url>
@@ -3461,6 +3491,7 @@
 <url><loc>https://wowforeverpath.com/es/quests/Nature's%20Call%20(Forever)</loc></url>
 <url><loc>https://wowforeverpath.com/es/quests/Never%20Saddle%20on%20Quality</loc></url>
 <url><loc>https://wowforeverpath.com/es/quests/Nip%20'Em%20in%20the%20Bud</loc></url>
+<url><loc>https://wowforeverpath.com/es/quests/Not%20Dead%20Yet</loc></url>
 <url><loc>https://wowforeverpath.com/es/quests/Old%20Fire-Eye%20(quest)</loc></url>
 <url><loc>https://wowforeverpath.com/es/quests/Old%20Ironforge%20Incursion</loc></url>
 <url><loc>https://wowforeverpath.com/es/quests/Open%20the%20Maw</loc></url>
@@ -3490,13 +3521,16 @@
 <url><loc>https://wowforeverpath.com/es/quests/Seeking%20Caitlin</loc></url>
 <url><loc>https://wowforeverpath.com/es/quests/Seeking%20Refuge</loc></url>
 <url><loc>https://wowforeverpath.com/es/quests/Shrewd%20Negotiations</loc></url>
+<url><loc>https://wowforeverpath.com/es/quests/Silver%20of%20the%20Waves</loc></url>
 <url><loc>https://wowforeverpath.com/es/quests/Songblade%20Search</loc></url>
 <url><loc>https://wowforeverpath.com/es/quests/Source%20of%20Power</loc></url>
 <url><loc>https://wowforeverpath.com/es/quests/Starving%20Arcane</loc></url>
 <url><loc>https://wowforeverpath.com/es/quests/State%20Secrets%20(Alliance)</loc></url>
 <url><loc>https://wowforeverpath.com/es/quests/State%20Secrets%20(Horde)</loc></url>
+<url><loc>https://wowforeverpath.com/es/quests/State%20Secrets%20(Neutral)</loc></url>
 <url><loc>https://wowforeverpath.com/es/quests/Sticks%20and%20Bones%20(Forever)</loc></url>
 <url><loc>https://wowforeverpath.com/es/quests/Stolen%20Enchanting%20Supplies%20(quest)</loc></url>
+<url><loc>https://wowforeverpath.com/es/quests/Stop%20the%20Spread%20(Forever)</loc></url>
 <url><loc>https://wowforeverpath.com/es/quests/Stormwind's%20High%20Order</loc></url>
 <url><loc>https://wowforeverpath.com/es/quests/Testing%20the%20Wells</loc></url>
 <url><loc>https://wowforeverpath.com/es/quests/That%20Shadowvale%20Green%20Elixir</loc></url>
@@ -3516,7 +3550,9 @@
 <url><loc>https://wowforeverpath.com/es/quests/The%20Gift%20of%20Skysight</loc></url>
 <url><loc>https://wowforeverpath.com/es/quests/The%20Grave%20Knight</loc></url>
 <url><loc>https://wowforeverpath.com/es/quests/The%20Great%20Outdoors%20(Forever)</loc></url>
+<url><loc>https://wowforeverpath.com/es/quests/The%20Great%20Tree%20Provides</loc></url>
 <url><loc>https://wowforeverpath.com/es/quests/The%20Hermit%20Tanner</loc></url>
+<url><loc>https://wowforeverpath.com/es/quests/The%20Lost%20Runner</loc></url>
 <url><loc>https://wowforeverpath.com/es/quests/The%20Man%20in%20the%20Iron%20Chains</loc></url>
 <url><loc>https://wowforeverpath.com/es/quests/The%20Monster%20Surfaces</loc></url>
 <url><loc>https://wowforeverpath.com/es/quests/The%20Moonsilver%20Blade</loc></url>
@@ -4369,6 +4405,7 @@
 <url><loc>https://wowforeverpath.com/fr/quests/A%20Missing%20Hand</loc></url>
 <url><loc>https://wowforeverpath.com/fr/quests/A%20Moon-Kissed%20Blade</loc></url>
 <url><loc>https://wowforeverpath.com/fr/quests/A%20Pain%20in%20the%20Neck</loc></url>
+<url><loc>https://wowforeverpath.com/fr/quests/A%20Paladin's%20Steed</loc></url>
 <url><loc>https://wowforeverpath.com/fr/quests/A%20Righteous%20Cause</loc></url>
 <url><loc>https://wowforeverpath.com/fr/quests/A%20Second%20Home</loc></url>
 <url><loc>https://wowforeverpath.com/fr/quests/A%20Student%20of%20Nature</loc></url>
@@ -4419,6 +4456,7 @@
 <url><loc>https://wowforeverpath.com/fr/quests/Downstream</loc></url>
 <url><loc>https://wowforeverpath.com/fr/quests/Dragonmaw%20Rumors</loc></url>
 <url><loc>https://wowforeverpath.com/fr/quests/Earthen%20Echo</loc></url>
+<url><loc>https://wowforeverpath.com/fr/quests/Easing%20Suffering</loc></url>
 <url><loc>https://wowforeverpath.com/fr/quests/Elder%20Knowledge</loc></url>
 <url><loc>https://wowforeverpath.com/fr/quests/Elemental%20Unrest%20(quest)</loc></url>
 <url><loc>https://wowforeverpath.com/fr/quests/Eluvi'ana%20(quest)</loc></url>
@@ -4459,6 +4497,7 @@
 <url><loc>https://wowforeverpath.com/fr/quests/Krol'dok%20Moulding%20(Horde)</loc></url>
 <url><loc>https://wowforeverpath.com/fr/quests/Legging%20It</loc></url>
 <url><loc>https://wowforeverpath.com/fr/quests/Leonid's%20Letter</loc></url>
+<url><loc>https://wowforeverpath.com/fr/quests/Libram%20of%20Binding%20(quest)</loc></url>
 <url><loc>https://wowforeverpath.com/fr/quests/Light's%20Justice%20(quest)</loc></url>
 <url><loc>https://wowforeverpath.com/fr/quests/Lingering%20Essence</loc></url>
 <url><loc>https://wowforeverpath.com/fr/quests/Lost%20Relic%20Carry</loc></url>
@@ -4476,6 +4515,7 @@
 <url><loc>https://wowforeverpath.com/fr/quests/Nature's%20Call%20(Forever)</loc></url>
 <url><loc>https://wowforeverpath.com/fr/quests/Never%20Saddle%20on%20Quality</loc></url>
 <url><loc>https://wowforeverpath.com/fr/quests/Nip%20'Em%20in%20the%20Bud</loc></url>
+<url><loc>https://wowforeverpath.com/fr/quests/Not%20Dead%20Yet</loc></url>
 <url><loc>https://wowforeverpath.com/fr/quests/Old%20Fire-Eye%20(quest)</loc></url>
 <url><loc>https://wowforeverpath.com/fr/quests/Old%20Ironforge%20Incursion</loc></url>
 <url><loc>https://wowforeverpath.com/fr/quests/Open%20the%20Maw</loc></url>
@@ -4505,13 +4545,16 @@
 <url><loc>https://wowforeverpath.com/fr/quests/Seeking%20Caitlin</loc></url>
 <url><loc>https://wowforeverpath.com/fr/quests/Seeking%20Refuge</loc></url>
 <url><loc>https://wowforeverpath.com/fr/quests/Shrewd%20Negotiations</loc></url>
+<url><loc>https://wowforeverpath.com/fr/quests/Silver%20of%20the%20Waves</loc></url>
 <url><loc>https://wowforeverpath.com/fr/quests/Songblade%20Search</loc></url>
 <url><loc>https://wowforeverpath.com/fr/quests/Source%20of%20Power</loc></url>
 <url><loc>https://wowforeverpath.com/fr/quests/Starving%20Arcane</loc></url>
 <url><loc>https://wowforeverpath.com/fr/quests/State%20Secrets%20(Alliance)</loc></url>
 <url><loc>https://wowforeverpath.com/fr/quests/State%20Secrets%20(Horde)</loc></url>
+<url><loc>https://wowforeverpath.com/fr/quests/State%20Secrets%20(Neutral)</loc></url>
 <url><loc>https://wowforeverpath.com/fr/quests/Sticks%20and%20Bones%20(Forever)</loc></url>
 <url><loc>https://wowforeverpath.com/fr/quests/Stolen%20Enchanting%20Supplies%20(quest)</loc></url>
+<url><loc>https://wowforeverpath.com/fr/quests/Stop%20the%20Spread%20(Forever)</loc></url>
 <url><loc>https://wowforeverpath.com/fr/quests/Stormwind's%20High%20Order</loc></url>
 <url><loc>https://wowforeverpath.com/fr/quests/Testing%20the%20Wells</loc></url>
 <url><loc>https://wowforeverpath.com/fr/quests/That%20Shadowvale%20Green%20Elixir</loc></url>
@@ -4531,7 +4574,9 @@
 <url><loc>https://wowforeverpath.com/fr/quests/The%20Gift%20of%20Skysight</loc></url>
 <url><loc>https://wowforeverpath.com/fr/quests/The%20Grave%20Knight</loc></url>
 <url><loc>https://wowforeverpath.com/fr/quests/The%20Great%20Outdoors%20(Forever)</loc></url>
+<url><loc>https://wowforeverpath.com/fr/quests/The%20Great%20Tree%20Provides</loc></url>
 <url><loc>https://wowforeverpath.com/fr/quests/The%20Hermit%20Tanner</loc></url>
+<url><loc>https://wowforeverpath.com/fr/quests/The%20Lost%20Runner</loc></url>
 <url><loc>https://wowforeverpath.com/fr/quests/The%20Man%20in%20the%20Iron%20Chains</loc></url>
 <url><loc>https://wowforeverpath.com/fr/quests/The%20Monster%20Surfaces</loc></url>
 <url><loc>https://wowforeverpath.com/fr/quests/The%20Moonsilver%20Blade</loc></url>
@@ -5384,6 +5429,7 @@
 <url><loc>https://wowforeverpath.com/it/quests/A%20Missing%20Hand</loc></url>
 <url><loc>https://wowforeverpath.com/it/quests/A%20Moon-Kissed%20Blade</loc></url>
 <url><loc>https://wowforeverpath.com/it/quests/A%20Pain%20in%20the%20Neck</loc></url>
+<url><loc>https://wowforeverpath.com/it/quests/A%20Paladin's%20Steed</loc></url>
 <url><loc>https://wowforeverpath.com/it/quests/A%20Righteous%20Cause</loc></url>
 <url><loc>https://wowforeverpath.com/it/quests/A%20Second%20Home</loc></url>
 <url><loc>https://wowforeverpath.com/it/quests/A%20Student%20of%20Nature</loc></url>
@@ -5434,6 +5480,7 @@
 <url><loc>https://wowforeverpath.com/it/quests/Downstream</loc></url>
 <url><loc>https://wowforeverpath.com/it/quests/Dragonmaw%20Rumors</loc></url>
 <url><loc>https://wowforeverpath.com/it/quests/Earthen%20Echo</loc></url>
+<url><loc>https://wowforeverpath.com/it/quests/Easing%20Suffering</loc></url>
 <url><loc>https://wowforeverpath.com/it/quests/Elder%20Knowledge</loc></url>
 <url><loc>https://wowforeverpath.com/it/quests/Elemental%20Unrest%20(quest)</loc></url>
 <url><loc>https://wowforeverpath.com/it/quests/Eluvi'ana%20(quest)</loc></url>
@@ -5474,6 +5521,7 @@
 <url><loc>https://wowforeverpath.com/it/quests/Krol'dok%20Moulding%20(Horde)</loc></url>
 <url><loc>https://wowforeverpath.com/it/quests/Legging%20It</loc></url>
 <url><loc>https://wowforeverpath.com/it/quests/Leonid's%20Letter</loc></url>
+<url><loc>https://wowforeverpath.com/it/quests/Libram%20of%20Binding%20(quest)</loc></url>
 <url><loc>https://wowforeverpath.com/it/quests/Light's%20Justice%20(quest)</loc></url>
 <url><loc>https://wowforeverpath.com/it/quests/Lingering%20Essence</loc></url>
 <url><loc>https://wowforeverpath.com/it/quests/Lost%20Relic%20Carry</loc></url>
@@ -5491,6 +5539,7 @@
 <url><loc>https://wowforeverpath.com/it/quests/Nature's%20Call%20(Forever)</loc></url>
 <url><loc>https://wowforeverpath.com/it/quests/Never%20Saddle%20on%20Quality</loc></url>
 <url><loc>https://wowforeverpath.com/it/quests/Nip%20'Em%20in%20the%20Bud</loc></url>
+<url><loc>https://wowforeverpath.com/it/quests/Not%20Dead%20Yet</loc></url>
 <url><loc>https://wowforeverpath.com/it/quests/Old%20Fire-Eye%20(quest)</loc></url>
 <url><loc>https://wowforeverpath.com/it/quests/Old%20Ironforge%20Incursion</loc></url>
 <url><loc>https://wowforeverpath.com/it/quests/Open%20the%20Maw</loc></url>
@@ -5520,13 +5569,16 @@
 <url><loc>https://wowforeverpath.com/it/quests/Seeking%20Caitlin</loc></url>
 <url><loc>https://wowforeverpath.com/it/quests/Seeking%20Refuge</loc></url>
 <url><loc>https://wowforeverpath.com/it/quests/Shrewd%20Negotiations</loc></url>
+<url><loc>https://wowforeverpath.com/it/quests/Silver%20of%20the%20Waves</loc></url>
 <url><loc>https://wowforeverpath.com/it/quests/Songblade%20Search</loc></url>
 <url><loc>https://wowforeverpath.com/it/quests/Source%20of%20Power</loc></url>
 <url><loc>https://wowforeverpath.com/it/quests/Starving%20Arcane</loc></url>
 <url><loc>https://wowforeverpath.com/it/quests/State%20Secrets%20(Alliance)</loc></url>
 <url><loc>https://wowforeverpath.com/it/quests/State%20Secrets%20(Horde)</loc></url>
+<url><loc>https://wowforeverpath.com/it/quests/State%20Secrets%20(Neutral)</loc></url>
 <url><loc>https://wowforeverpath.com/it/quests/Sticks%20and%20Bones%20(Forever)</loc></url>
 <url><loc>https://wowforeverpath.com/it/quests/Stolen%20Enchanting%20Supplies%20(quest)</loc></url>
+<url><loc>https://wowforeverpath.com/it/quests/Stop%20the%20Spread%20(Forever)</loc></url>
 <url><loc>https://wowforeverpath.com/it/quests/Stormwind's%20High%20Order</loc></url>
 <url><loc>https://wowforeverpath.com/it/quests/Testing%20the%20Wells</loc></url>
 <url><loc>https://wowforeverpath.com/it/quests/That%20Shadowvale%20Green%20Elixir</loc></url>
@@ -5546,7 +5598,9 @@
 <url><loc>https://wowforeverpath.com/it/quests/The%20Gift%20of%20Skysight</loc></url>
 <url><loc>https://wowforeverpath.com/it/quests/The%20Grave%20Knight</loc></url>
 <url><loc>https://wowforeverpath.com/it/quests/The%20Great%20Outdoors%20(Forever)</loc></url>
+<url><loc>https://wowforeverpath.com/it/quests/The%20Great%20Tree%20Provides</loc></url>
 <url><loc>https://wowforeverpath.com/it/quests/The%20Hermit%20Tanner</loc></url>
+<url><loc>https://wowforeverpath.com/it/quests/The%20Lost%20Runner</loc></url>
 <url><loc>https://wowforeverpath.com/it/quests/The%20Man%20in%20the%20Iron%20Chains</loc></url>
 <url><loc>https://wowforeverpath.com/it/quests/The%20Monster%20Surfaces</loc></url>
 <url><loc>https://wowforeverpath.com/it/quests/The%20Moonsilver%20Blade</loc></url>
@@ -6399,6 +6453,7 @@
 <url><loc>https://wowforeverpath.com/ko/quests/A%20Missing%20Hand</loc></url>
 <url><loc>https://wowforeverpath.com/ko/quests/A%20Moon-Kissed%20Blade</loc></url>
 <url><loc>https://wowforeverpath.com/ko/quests/A%20Pain%20in%20the%20Neck</loc></url>
+<url><loc>https://wowforeverpath.com/ko/quests/A%20Paladin's%20Steed</loc></url>
 <url><loc>https://wowforeverpath.com/ko/quests/A%20Righteous%20Cause</loc></url>
 <url><loc>https://wowforeverpath.com/ko/quests/A%20Second%20Home</loc></url>
 <url><loc>https://wowforeverpath.com/ko/quests/A%20Student%20of%20Nature</loc></url>
@@ -6449,6 +6504,7 @@
 <url><loc>https://wowforeverpath.com/ko/quests/Downstream</loc></url>
 <url><loc>https://wowforeverpath.com/ko/quests/Dragonmaw%20Rumors</loc></url>
 <url><loc>https://wowforeverpath.com/ko/quests/Earthen%20Echo</loc></url>
+<url><loc>https://wowforeverpath.com/ko/quests/Easing%20Suffering</loc></url>
 <url><loc>https://wowforeverpath.com/ko/quests/Elder%20Knowledge</loc></url>
 <url><loc>https://wowforeverpath.com/ko/quests/Elemental%20Unrest%20(quest)</loc></url>
 <url><loc>https://wowforeverpath.com/ko/quests/Eluvi'ana%20(quest)</loc></url>
@@ -6489,6 +6545,7 @@
 <url><loc>https://wowforeverpath.com/ko/quests/Krol'dok%20Moulding%20(Horde)</loc></url>
 <url><loc>https://wowforeverpath.com/ko/quests/Legging%20It</loc></url>
 <url><loc>https://wowforeverpath.com/ko/quests/Leonid's%20Letter</loc></url>
+<url><loc>https://wowforeverpath.com/ko/quests/Libram%20of%20Binding%20(quest)</loc></url>
 <url><loc>https://wowforeverpath.com/ko/quests/Light's%20Justice%20(quest)</loc></url>
 <url><loc>https://wowforeverpath.com/ko/quests/Lingering%20Essence</loc></url>
 <url><loc>https://wowforeverpath.com/ko/quests/Lost%20Relic%20Carry</loc></url>
@@ -6506,6 +6563,7 @@
 <url><loc>https://wowforeverpath.com/ko/quests/Nature's%20Call%20(Forever)</loc></url>
 <url><loc>https://wowforeverpath.com/ko/quests/Never%20Saddle%20on%20Quality</loc></url>
 <url><loc>https://wowforeverpath.com/ko/quests/Nip%20'Em%20in%20the%20Bud</loc></url>
+<url><loc>https://wowforeverpath.com/ko/quests/Not%20Dead%20Yet</loc></url>
 <url><loc>https://wowforeverpath.com/ko/quests/Old%20Fire-Eye%20(quest)</loc></url>
 <url><loc>https://wowforeverpath.com/ko/quests/Old%20Ironforge%20Incursion</loc></url>
 <url><loc>https://wowforeverpath.com/ko/quests/Open%20the%20Maw</loc></url>
@@ -6535,13 +6593,16 @@
 <url><loc>https://wowforeverpath.com/ko/quests/Seeking%20Caitlin</loc></url>
 <url><loc>https://wowforeverpath.com/ko/quests/Seeking%20Refuge</loc></url>
 <url><loc>https://wowforeverpath.com/ko/quests/Shrewd%20Negotiations</loc></url>
+<url><loc>https://wowforeverpath.com/ko/quests/Silver%20of%20the%20Waves</loc></url>
 <url><loc>https://wowforeverpath.com/ko/quests/Songblade%20Search</loc></url>
 <url><loc>https://wowforeverpath.com/ko/quests/Source%20of%20Power</loc></url>
 <url><loc>https://wowforeverpath.com/ko/quests/Starving%20Arcane</loc></url>
 <url><loc>https://wowforeverpath.com/ko/quests/State%20Secrets%20(Alliance)</loc></url>
 <url><loc>https://wowforeverpath.com/ko/quests/State%20Secrets%20(Horde)</loc></url>
+<url><loc>https://wowforeverpath.com/ko/quests/State%20Secrets%20(Neutral)</loc></url>
 <url><loc>https://wowforeverpath.com/ko/quests/Sticks%20and%20Bones%20(Forever)</loc></url>
 <url><loc>https://wowforeverpath.com/ko/quests/Stolen%20Enchanting%20Supplies%20(quest)</loc></url>
+<url><loc>https://wowforeverpath.com/ko/quests/Stop%20the%20Spread%20(Forever)</loc></url>
 <url><loc>https://wowforeverpath.com/ko/quests/Stormwind's%20High%20Order</loc></url>
 <url><loc>https://wowforeverpath.com/ko/quests/Testing%20the%20Wells</loc></url>
 <url><loc>https://wowforeverpath.com/ko/quests/That%20Shadowvale%20Green%20Elixir</loc></url>
@@ -6561,7 +6622,9 @@
 <url><loc>https://wowforeverpath.com/ko/quests/The%20Gift%20of%20Skysight</loc></url>
 <url><loc>https://wowforeverpath.com/ko/quests/The%20Grave%20Knight</loc></url>
 <url><loc>https://wowforeverpath.com/ko/quests/The%20Great%20Outdoors%20(Forever)</loc></url>
+<url><loc>https://wowforeverpath.com/ko/quests/The%20Great%20Tree%20Provides</loc></url>
 <url><loc>https://wowforeverpath.com/ko/quests/The%20Hermit%20Tanner</loc></url>
+<url><loc>https://wowforeverpath.com/ko/quests/The%20Lost%20Runner</loc></url>
 <url><loc>https://wowforeverpath.com/ko/quests/The%20Man%20in%20the%20Iron%20Chains</loc></url>
 <url><loc>https://wowforeverpath.com/ko/quests/The%20Monster%20Surfaces</loc></url>
 <url><loc>https://wowforeverpath.com/ko/quests/The%20Moonsilver%20Blade</loc></url>
@@ -7414,6 +7477,7 @@
 <url><loc>https://wowforeverpath.com/pt-BR/quests/A%20Missing%20Hand</loc></url>
 <url><loc>https://wowforeverpath.com/pt-BR/quests/A%20Moon-Kissed%20Blade</loc></url>
 <url><loc>https://wowforeverpath.com/pt-BR/quests/A%20Pain%20in%20the%20Neck</loc></url>
+<url><loc>https://wowforeverpath.com/pt-BR/quests/A%20Paladin's%20Steed</loc></url>
 <url><loc>https://wowforeverpath.com/pt-BR/quests/A%20Righteous%20Cause</loc></url>
 <url><loc>https://wowforeverpath.com/pt-BR/quests/A%20Second%20Home</loc></url>
 <url><loc>https://wowforeverpath.com/pt-BR/quests/A%20Student%20of%20Nature</loc></url>
@@ -7464,6 +7528,7 @@
 <url><loc>https://wowforeverpath.com/pt-BR/quests/Downstream</loc></url>
 <url><loc>https://wowforeverpath.com/pt-BR/quests/Dragonmaw%20Rumors</loc></url>
 <url><loc>https://wowforeverpath.com/pt-BR/quests/Earthen%20Echo</loc></url>
+<url><loc>https://wowforeverpath.com/pt-BR/quests/Easing%20Suffering</loc></url>
 <url><loc>https://wowforeverpath.com/pt-BR/quests/Elder%20Knowledge</loc></url>
 <url><loc>https://wowforeverpath.com/pt-BR/quests/Elemental%20Unrest%20(quest)</loc></url>
 <url><loc>https://wowforeverpath.com/pt-BR/quests/Eluvi'ana%20(quest)</loc></url>
@@ -7504,6 +7569,7 @@
 <url><loc>https://wowforeverpath.com/pt-BR/quests/Krol'dok%20Moulding%20(Horde)</loc></url>
 <url><loc>https://wowforeverpath.com/pt-BR/quests/Legging%20It</loc></url>
 <url><loc>https://wowforeverpath.com/pt-BR/quests/Leonid's%20Letter</loc></url>
+<url><loc>https://wowforeverpath.com/pt-BR/quests/Libram%20of%20Binding%20(quest)</loc></url>
 <url><loc>https://wowforeverpath.com/pt-BR/quests/Light's%20Justice%20(quest)</loc></url>
 <url><loc>https://wowforeverpath.com/pt-BR/quests/Lingering%20Essence</loc></url>
 <url><loc>https://wowforeverpath.com/pt-BR/quests/Lost%20Relic%20Carry</loc></url>
@@ -7521,6 +7587,7 @@
 <url><loc>https://wowforeverpath.com/pt-BR/quests/Nature's%20Call%20(Forever)</loc></url>
 <url><loc>https://wowforeverpath.com/pt-BR/quests/Never%20Saddle%20on%20Quality</loc></url>
 <url><loc>https://wowforeverpath.com/pt-BR/quests/Nip%20'Em%20in%20the%20Bud</loc></url>
+<url><loc>https://wowforeverpath.com/pt-BR/quests/Not%20Dead%20Yet</loc></url>
 <url><loc>https://wowforeverpath.com/pt-BR/quests/Old%20Fire-Eye%20(quest)</loc></url>
 <url><loc>https://wowforeverpath.com/pt-BR/quests/Old%20Ironforge%20Incursion</loc></url>
 <url><loc>https://wowforeverpath.com/pt-BR/quests/Open%20the%20Maw</loc></url>
@@ -7550,13 +7617,16 @@
 <url><loc>https://wowforeverpath.com/pt-BR/quests/Seeking%20Caitlin</loc></url>
 <url><loc>https://wowforeverpath.com/pt-BR/quests/Seeking%20Refuge</loc></url>
 <url><loc>https://wowforeverpath.com/pt-BR/quests/Shrewd%20Negotiations</loc></url>
+<url><loc>https://wowforeverpath.com/pt-BR/quests/Silver%20of%20the%20Waves</loc></url>
 <url><loc>https://wowforeverpath.com/pt-BR/quests/Songblade%20Search</loc></url>
 <url><loc>https://wowforeverpath.com/pt-BR/quests/Source%20of%20Power</loc></url>
 <url><loc>https://wowforeverpath.com/pt-BR/quests/Starving%20Arcane</loc></url>
 <url><loc>https://wowforeverpath.com/pt-BR/quests/State%20Secrets%20(Alliance)</loc></url>
 <url><loc>https://wowforeverpath.com/pt-BR/quests/State%20Secrets%20(Horde)</loc></url>
+<url><loc>https://wowforeverpath.com/pt-BR/quests/State%20Secrets%20(Neutral)</loc></url>
 <url><loc>https://wowforeverpath.com/pt-BR/quests/Sticks%20and%20Bones%20(Forever)</loc></url>
 <url><loc>https://wowforeverpath.com/pt-BR/quests/Stolen%20Enchanting%20Supplies%20(quest)</loc></url>
+<url><loc>https://wowforeverpath.com/pt-BR/quests/Stop%20the%20Spread%20(Forever)</loc></url>
 <url><loc>https://wowforeverpath.com/pt-BR/quests/Stormwind's%20High%20Order</loc></url>
 <url><loc>https://wowforeverpath.com/pt-BR/quests/Testing%20the%20Wells</loc></url>
 <url><loc>https://wowforeverpath.com/pt-BR/quests/That%20Shadowvale%20Green%20Elixir</loc></url>
@@ -7576,7 +7646,9 @@
 <url><loc>https://wowforeverpath.com/pt-BR/quests/The%20Gift%20of%20Skysight</loc></url>
 <url><loc>https://wowforeverpath.com/pt-BR/quests/The%20Grave%20Knight</loc></url>
 <url><loc>https://wowforeverpath.com/pt-BR/quests/The%20Great%20Outdoors%20(Forever)</loc></url>
+<url><loc>https://wowforeverpath.com/pt-BR/quests/The%20Great%20Tree%20Provides</loc></url>
 <url><loc>https://wowforeverpath.com/pt-BR/quests/The%20Hermit%20Tanner</loc></url>
+<url><loc>https://wowforeverpath.com/pt-BR/quests/The%20Lost%20Runner</loc></url>
 <url><loc>https://wowforeverpath.com/pt-BR/quests/The%20Man%20in%20the%20Iron%20Chains</loc></url>
 <url><loc>https://wowforeverpath.com/pt-BR/quests/The%20Monster%20Surfaces</loc></url>
 <url><loc>https://wowforeverpath.com/pt-BR/quests/The%20Moonsilver%20Blade</loc></url>
@@ -8429,6 +8501,7 @@
 <url><loc>https://wowforeverpath.com/ru/quests/A%20Missing%20Hand</loc></url>
 <url><loc>https://wowforeverpath.com/ru/quests/A%20Moon-Kissed%20Blade</loc></url>
 <url><loc>https://wowforeverpath.com/ru/quests/A%20Pain%20in%20the%20Neck</loc></url>
+<url><loc>https://wowforeverpath.com/ru/quests/A%20Paladin's%20Steed</loc></url>
 <url><loc>https://wowforeverpath.com/ru/quests/A%20Righteous%20Cause</loc></url>
 <url><loc>https://wowforeverpath.com/ru/quests/A%20Second%20Home</loc></url>
 <url><loc>https://wowforeverpath.com/ru/quests/A%20Student%20of%20Nature</loc></url>
@@ -8479,6 +8552,7 @@
 <url><loc>https://wowforeverpath.com/ru/quests/Downstream</loc></url>
 <url><loc>https://wowforeverpath.com/ru/quests/Dragonmaw%20Rumors</loc></url>
 <url><loc>https://wowforeverpath.com/ru/quests/Earthen%20Echo</loc></url>
+<url><loc>https://wowforeverpath.com/ru/quests/Easing%20Suffering</loc></url>
 <url><loc>https://wowforeverpath.com/ru/quests/Elder%20Knowledge</loc></url>
 <url><loc>https://wowforeverpath.com/ru/quests/Elemental%20Unrest%20(quest)</loc></url>
 <url><loc>https://wowforeverpath.com/ru/quests/Eluvi'ana%20(quest)</loc></url>
@@ -8519,6 +8593,7 @@
 <url><loc>https://wowforeverpath.com/ru/quests/Krol'dok%20Moulding%20(Horde)</loc></url>
 <url><loc>https://wowforeverpath.com/ru/quests/Legging%20It</loc></url>
 <url><loc>https://wowforeverpath.com/ru/quests/Leonid's%20Letter</loc></url>
+<url><loc>https://wowforeverpath.com/ru/quests/Libram%20of%20Binding%20(quest)</loc></url>
 <url><loc>https://wowforeverpath.com/ru/quests/Light's%20Justice%20(quest)</loc></url>
 <url><loc>https://wowforeverpath.com/ru/quests/Lingering%20Essence</loc></url>
 <url><loc>https://wowforeverpath.com/ru/quests/Lost%20Relic%20Carry</loc></url>
@@ -8536,6 +8611,7 @@
 <url><loc>https://wowforeverpath.com/ru/quests/Nature's%20Call%20(Forever)</loc></url>
 <url><loc>https://wowforeverpath.com/ru/quests/Never%20Saddle%20on%20Quality</loc></url>
 <url><loc>https://wowforeverpath.com/ru/quests/Nip%20'Em%20in%20the%20Bud</loc></url>
+<url><loc>https://wowforeverpath.com/ru/quests/Not%20Dead%20Yet</loc></url>
 <url><loc>https://wowforeverpath.com/ru/quests/Old%20Fire-Eye%20(quest)</loc></url>
 <url><loc>https://wowforeverpath.com/ru/quests/Old%20Ironforge%20Incursion</loc></url>
 <url><loc>https://wowforeverpath.com/ru/quests/Open%20the%20Maw</loc></url>
@@ -8565,13 +8641,16 @@
 <url><loc>https://wowforeverpath.com/ru/quests/Seeking%20Caitlin</loc></url>
 <url><loc>https://wowforeverpath.com/ru/quests/Seeking%20Refuge</loc></url>
 <url><loc>https://wowforeverpath.com/ru/quests/Shrewd%20Negotiations</loc></url>
+<url><loc>https://wowforeverpath.com/ru/quests/Silver%20of%20the%20Waves</loc></url>
 <url><loc>https://wowforeverpath.com/ru/quests/Songblade%20Search</loc></url>
 <url><loc>https://wowforeverpath.com/ru/quests/Source%20of%20Power</loc></url>
 <url><loc>https://wowforeverpath.com/ru/quests/Starving%20Arcane</loc></url>
 <url><loc>https://wowforeverpath.com/ru/quests/State%20Secrets%20(Alliance)</loc></url>
 <url><loc>https://wowforeverpath.com/ru/quests/State%20Secrets%20(Horde)</loc></url>
+<url><loc>https://wowforeverpath.com/ru/quests/State%20Secrets%20(Neutral)</loc></url>
 <url><loc>https://wowforeverpath.com/ru/quests/Sticks%20and%20Bones%20(Forever)</loc></url>
 <url><loc>https://wowforeverpath.com/ru/quests/Stolen%20Enchanting%20Supplies%20(quest)</loc></url>
+<url><loc>https://wowforeverpath.com/ru/quests/Stop%20the%20Spread%20(Forever)</loc></url>
 <url><loc>https://wowforeverpath.com/ru/quests/Stormwind's%20High%20Order</loc></url>
 <url><loc>https://wowforeverpath.com/ru/quests/Testing%20the%20Wells</loc></url>
 <url><loc>https://wowforeverpath.com/ru/quests/That%20Shadowvale%20Green%20Elixir</loc></url>
@@ -8591,7 +8670,9 @@
 <url><loc>https://wowforeverpath.com/ru/quests/The%20Gift%20of%20Skysight</loc></url>
 <url><loc>https://wowforeverpath.com/ru/quests/The%20Grave%20Knight</loc></url>
 <url><loc>https://wowforeverpath.com/ru/quests/The%20Great%20Outdoors%20(Forever)</loc></url>
+<url><loc>https://wowforeverpath.com/ru/quests/The%20Great%20Tree%20Provides</loc></url>
 <url><loc>https://wowforeverpath.com/ru/quests/The%20Hermit%20Tanner</loc></url>
+<url><loc>https://wowforeverpath.com/ru/quests/The%20Lost%20Runner</loc></url>
 <url><loc>https://wowforeverpath.com/ru/quests/The%20Man%20in%20the%20Iron%20Chains</loc></url>
 <url><loc>https://wowforeverpath.com/ru/quests/The%20Monster%20Surfaces</loc></url>
 <url><loc>https://wowforeverpath.com/ru/quests/The%20Moonsilver%20Blade</loc></url>
@@ -9444,6 +9525,7 @@
 <url><loc>https://wowforeverpath.com/tr/quests/A%20Missing%20Hand</loc></url>
 <url><loc>https://wowforeverpath.com/tr/quests/A%20Moon-Kissed%20Blade</loc></url>
 <url><loc>https://wowforeverpath.com/tr/quests/A%20Pain%20in%20the%20Neck</loc></url>
+<url><loc>https://wowforeverpath.com/tr/quests/A%20Paladin's%20Steed</loc></url>
 <url><loc>https://wowforeverpath.com/tr/quests/A%20Righteous%20Cause</loc></url>
 <url><loc>https://wowforeverpath.com/tr/quests/A%20Second%20Home</loc></url>
 <url><loc>https://wowforeverpath.com/tr/quests/A%20Student%20of%20Nature</loc></url>
@@ -9494,6 +9576,7 @@
 <url><loc>https://wowforeverpath.com/tr/quests/Downstream</loc></url>
 <url><loc>https://wowforeverpath.com/tr/quests/Dragonmaw%20Rumors</loc></url>
 <url><loc>https://wowforeverpath.com/tr/quests/Earthen%20Echo</loc></url>
+<url><loc>https://wowforeverpath.com/tr/quests/Easing%20Suffering</loc></url>
 <url><loc>https://wowforeverpath.com/tr/quests/Elder%20Knowledge</loc></url>
 <url><loc>https://wowforeverpath.com/tr/quests/Elemental%20Unrest%20(quest)</loc></url>
 <url><loc>https://wowforeverpath.com/tr/quests/Eluvi'ana%20(quest)</loc></url>
@@ -9534,6 +9617,7 @@
 <url><loc>https://wowforeverpath.com/tr/quests/Krol'dok%20Moulding%20(Horde)</loc></url>
 <url><loc>https://wowforeverpath.com/tr/quests/Legging%20It</loc></url>
 <url><loc>https://wowforeverpath.com/tr/quests/Leonid's%20Letter</loc></url>
+<url><loc>https://wowforeverpath.com/tr/quests/Libram%20of%20Binding%20(quest)</loc></url>
 <url><loc>https://wowforeverpath.com/tr/quests/Light's%20Justice%20(quest)</loc></url>
 <url><loc>https://wowforeverpath.com/tr/quests/Lingering%20Essence</loc></url>
 <url><loc>https://wowforeverpath.com/tr/quests/Lost%20Relic%20Carry</loc></url>
@@ -9551,6 +9635,7 @@
 <url><loc>https://wowforeverpath.com/tr/quests/Nature's%20Call%20(Forever)</loc></url>
 <url><loc>https://wowforeverpath.com/tr/quests/Never%20Saddle%20on%20Quality</loc></url>
 <url><loc>https://wowforeverpath.com/tr/quests/Nip%20'Em%20in%20the%20Bud</loc></url>
+<url><loc>https://wowforeverpath.com/tr/quests/Not%20Dead%20Yet</loc></url>
 <url><loc>https://wowforeverpath.com/tr/quests/Old%20Fire-Eye%20(quest)</loc></url>
 <url><loc>https://wowforeverpath.com/tr/quests/Old%20Ironforge%20Incursion</loc></url>
 <url><loc>https://wowforeverpath.com/tr/quests/Open%20the%20Maw</loc></url>
@@ -9580,13 +9665,16 @@
 <url><loc>https://wowforeverpath.com/tr/quests/Seeking%20Caitlin</loc></url>
 <url><loc>https://wowforeverpath.com/tr/quests/Seeking%20Refuge</loc></url>
 <url><loc>https://wowforeverpath.com/tr/quests/Shrewd%20Negotiations</loc></url>
+<url><loc>https://wowforeverpath.com/tr/quests/Silver%20of%20the%20Waves</loc></url>
 <url><loc>https://wowforeverpath.com/tr/quests/Songblade%20Search</loc></url>
 <url><loc>https://wowforeverpath.com/tr/quests/Source%20of%20Power</loc></url>
 <url><loc>https://wowforeverpath.com/tr/quests/Starving%20Arcane</loc></url>
 <url><loc>https://wowforeverpath.com/tr/quests/State%20Secrets%20(Alliance)</loc></url>
 <url><loc>https://wowforeverpath.com/tr/quests/State%20Secrets%20(Horde)</loc></url>
+<url><loc>https://wowforeverpath.com/tr/quests/State%20Secrets%20(Neutral)</loc></url>
 <url><loc>https://wowforeverpath.com/tr/quests/Sticks%20and%20Bones%20(Forever)</loc></url>
 <url><loc>https://wowforeverpath.com/tr/quests/Stolen%20Enchanting%20Supplies%20(quest)</loc></url>
+<url><loc>https://wowforeverpath.com/tr/quests/Stop%20the%20Spread%20(Forever)</loc></url>
 <url><loc>https://wowforeverpath.com/tr/quests/Stormwind's%20High%20Order</loc></url>
 <url><loc>https://wowforeverpath.com/tr/quests/Testing%20the%20Wells</loc></url>
 <url><loc>https://wowforeverpath.com/tr/quests/That%20Shadowvale%20Green%20Elixir</loc></url>
@@ -9606,7 +9694,9 @@
 <url><loc>https://wowforeverpath.com/tr/quests/The%20Gift%20of%20Skysight</loc></url>
 <url><loc>https://wowforeverpath.com/tr/quests/The%20Grave%20Knight</loc></url>
 <url><loc>https://wowforeverpath.com/tr/quests/The%20Great%20Outdoors%20(Forever)</loc></url>
+<url><loc>https://wowforeverpath.com/tr/quests/The%20Great%20Tree%20Provides</loc></url>
 <url><loc>https://wowforeverpath.com/tr/quests/The%20Hermit%20Tanner</loc></url>
+<url><loc>https://wowforeverpath.com/tr/quests/The%20Lost%20Runner</loc></url>
 <url><loc>https://wowforeverpath.com/tr/quests/The%20Man%20in%20the%20Iron%20Chains</loc></url>
 <url><loc>https://wowforeverpath.com/tr/quests/The%20Monster%20Surfaces</loc></url>
 <url><loc>https://wowforeverpath.com/tr/quests/The%20Moonsilver%20Blade</loc></url>
@@ -10459,6 +10549,7 @@
 <url><loc>https://wowforeverpath.com/zh-CN/quests/A%20Missing%20Hand</loc></url>
 <url><loc>https://wowforeverpath.com/zh-CN/quests/A%20Moon-Kissed%20Blade</loc></url>
 <url><loc>https://wowforeverpath.com/zh-CN/quests/A%20Pain%20in%20the%20Neck</loc></url>
+<url><loc>https://wowforeverpath.com/zh-CN/quests/A%20Paladin's%20Steed</loc></url>
 <url><loc>https://wowforeverpath.com/zh-CN/quests/A%20Righteous%20Cause</loc></url>
 <url><loc>https://wowforeverpath.com/zh-CN/quests/A%20Second%20Home</loc></url>
 <url><loc>https://wowforeverpath.com/zh-CN/quests/A%20Student%20of%20Nature</loc></url>
@@ -10509,6 +10600,7 @@
 <url><loc>https://wowforeverpath.com/zh-CN/quests/Downstream</loc></url>
 <url><loc>https://wowforeverpath.com/zh-CN/quests/Dragonmaw%20Rumors</loc></url>
 <url><loc>https://wowforeverpath.com/zh-CN/quests/Earthen%20Echo</loc></url>
+<url><loc>https://wowforeverpath.com/zh-CN/quests/Easing%20Suffering</loc></url>
 <url><loc>https://wowforeverpath.com/zh-CN/quests/Elder%20Knowledge</loc></url>
 <url><loc>https://wowforeverpath.com/zh-CN/quests/Elemental%20Unrest%20(quest)</loc></url>
 <url><loc>https://wowforeverpath.com/zh-CN/quests/Eluvi'ana%20(quest)</loc></url>
@@ -10549,6 +10641,7 @@
 <url><loc>https://wowforeverpath.com/zh-CN/quests/Krol'dok%20Moulding%20(Horde)</loc></url>
 <url><loc>https://wowforeverpath.com/zh-CN/quests/Legging%20It</loc></url>
 <url><loc>https://wowforeverpath.com/zh-CN/quests/Leonid's%20Letter</loc></url>
+<url><loc>https://wowforeverpath.com/zh-CN/quests/Libram%20of%20Binding%20(quest)</loc></url>
 <url><loc>https://wowforeverpath.com/zh-CN/quests/Light's%20Justice%20(quest)</loc></url>
 <url><loc>https://wowforeverpath.com/zh-CN/quests/Lingering%20Essence</loc></url>
 <url><loc>https://wowforeverpath.com/zh-CN/quests/Lost%20Relic%20Carry</loc></url>
@@ -10566,6 +10659,7 @@
 <url><loc>https://wowforeverpath.com/zh-CN/quests/Nature's%20Call%20(Forever)</loc></url>
 <url><loc>https://wowforeverpath.com/zh-CN/quests/Never%20Saddle%20on%20Quality</loc></url>
 <url><loc>https://wowforeverpath.com/zh-CN/quests/Nip%20'Em%20in%20the%20Bud</loc></url>
+<url><loc>https://wowforeverpath.com/zh-CN/quests/Not%20Dead%20Yet</loc></url>
 <url><loc>https://wowforeverpath.com/zh-CN/quests/Old%20Fire-Eye%20(quest)</loc></url>
 <url><loc>https://wowforeverpath.com/zh-CN/quests/Old%20Ironforge%20Incursion</loc></url>
 <url><loc>https://wowforeverpath.com/zh-CN/quests/Open%20the%20Maw</loc></url>
@@ -10595,13 +10689,16 @@
 <url><loc>https://wowforeverpath.com/zh-CN/quests/Seeking%20Caitlin</loc></url>
 <url><loc>https://wowforeverpath.com/zh-CN/quests/Seeking%20Refuge</loc></url>
 <url><loc>https://wowforeverpath.com/zh-CN/quests/Shrewd%20Negotiations</loc></url>
+<url><loc>https://wowforeverpath.com/zh-CN/quests/Silver%20of%20the%20Waves</loc></url>
 <url><loc>https://wowforeverpath.com/zh-CN/quests/Songblade%20Search</loc></url>
 <url><loc>https://wowforeverpath.com/zh-CN/quests/Source%20of%20Power</loc></url>
 <url><loc>https://wowforeverpath.com/zh-CN/quests/Starving%20Arcane</loc></url>
 <url><loc>https://wowforeverpath.com/zh-CN/quests/State%20Secrets%20(Alliance)</loc></url>
 <url><loc>https://wowforeverpath.com/zh-CN/quests/State%20Secrets%20(Horde)</loc></url>
+<url><loc>https://wowforeverpath.com/zh-CN/quests/State%20Secrets%20(Neutral)</loc></url>
 <url><loc>https://wowforeverpath.com/zh-CN/quests/Sticks%20and%20Bones%20(Forever)</loc></url>
 <url><loc>https://wowforeverpath.com/zh-CN/quests/Stolen%20Enchanting%20Supplies%20(quest)</loc></url>
+<url><loc>https://wowforeverpath.com/zh-CN/quests/Stop%20the%20Spread%20(Forever)</loc></url>
 <url><loc>https://wowforeverpath.com/zh-CN/quests/Stormwind's%20High%20Order</loc></url>
 <url><loc>https://wowforeverpath.com/zh-CN/quests/Testing%20the%20Wells</loc></url>
 <url><loc>https://wowforeverpath.com/zh-CN/quests/That%20Shadowvale%20Green%20Elixir</loc></url>
@@ -10621,7 +10718,9 @@
 <url><loc>https://wowforeverpath.com/zh-CN/quests/The%20Gift%20of%20Skysight</loc></url>
 <url><loc>https://wowforeverpath.com/zh-CN/quests/The%20Grave%20Knight</loc></url>
 <url><loc>https://wowforeverpath.com/zh-CN/quests/The%20Great%20Outdoors%20(Forever)</loc></url>
+<url><loc>https://wowforeverpath.com/zh-CN/quests/The%20Great%20Tree%20Provides</loc></url>
 <url><loc>https://wowforeverpath.com/zh-CN/quests/The%20Hermit%20Tanner</loc></url>
+<url><loc>https://wowforeverpath.com/zh-CN/quests/The%20Lost%20Runner</loc></url>
 <url><loc>https://wowforeverpath.com/zh-CN/quests/The%20Man%20in%20the%20Iron%20Chains</loc></url>
 <url><loc>https://wowforeverpath.com/zh-CN/quests/The%20Monster%20Surfaces</loc></url>
 <url><loc>https://wowforeverpath.com/zh-CN/quests/The%20Moonsilver%20Blade</loc></url>
@@ -11474,6 +11573,7 @@
 <url><loc>https://wowforeverpath.com/zh-TW/quests/A%20Missing%20Hand</loc></url>
 <url><loc>https://wowforeverpath.com/zh-TW/quests/A%20Moon-Kissed%20Blade</loc></url>
 <url><loc>https://wowforeverpath.com/zh-TW/quests/A%20Pain%20in%20the%20Neck</loc></url>
+<url><loc>https://wowforeverpath.com/zh-TW/quests/A%20Paladin's%20Steed</loc></url>
 <url><loc>https://wowforeverpath.com/zh-TW/quests/A%20Righteous%20Cause</loc></url>
 <url><loc>https://wowforeverpath.com/zh-TW/quests/A%20Second%20Home</loc></url>
 <url><loc>https://wowforeverpath.com/zh-TW/quests/A%20Student%20of%20Nature</loc></url>
@@ -11524,6 +11624,7 @@
 <url><loc>https://wowforeverpath.com/zh-TW/quests/Downstream</loc></url>
 <url><loc>https://wowforeverpath.com/zh-TW/quests/Dragonmaw%20Rumors</loc></url>
 <url><loc>https://wowforeverpath.com/zh-TW/quests/Earthen%20Echo</loc></url>
+<url><loc>https://wowforeverpath.com/zh-TW/quests/Easing%20Suffering</loc></url>
 <url><loc>https://wowforeverpath.com/zh-TW/quests/Elder%20Knowledge</loc></url>
 <url><loc>https://wowforeverpath.com/zh-TW/quests/Elemental%20Unrest%20(quest)</loc></url>
 <url><loc>https://wowforeverpath.com/zh-TW/quests/Eluvi'ana%20(quest)</loc></url>
@@ -11564,6 +11665,7 @@
 <url><loc>https://wowforeverpath.com/zh-TW/quests/Krol'dok%20Moulding%20(Horde)</loc></url>
 <url><loc>https://wowforeverpath.com/zh-TW/quests/Legging%20It</loc></url>
 <url><loc>https://wowforeverpath.com/zh-TW/quests/Leonid's%20Letter</loc></url>
+<url><loc>https://wowforeverpath.com/zh-TW/quests/Libram%20of%20Binding%20(quest)</loc></url>
 <url><loc>https://wowforeverpath.com/zh-TW/quests/Light's%20Justice%20(quest)</loc></url>
 <url><loc>https://wowforeverpath.com/zh-TW/quests/Lingering%20Essence</loc></url>
 <url><loc>https://wowforeverpath.com/zh-TW/quests/Lost%20Relic%20Carry</loc></url>
@@ -11581,6 +11683,7 @@
 <url><loc>https://wowforeverpath.com/zh-TW/quests/Nature's%20Call%20(Forever)</loc></url>
 <url><loc>https://wowforeverpath.com/zh-TW/quests/Never%20Saddle%20on%20Quality</loc></url>
 <url><loc>https://wowforeverpath.com/zh-TW/quests/Nip%20'Em%20in%20the%20Bud</loc></url>
+<url><loc>https://wowforeverpath.com/zh-TW/quests/Not%20Dead%20Yet</loc></url>
 <url><loc>https://wowforeverpath.com/zh-TW/quests/Old%20Fire-Eye%20(quest)</loc></url>
 <url><loc>https://wowforeverpath.com/zh-TW/quests/Old%20Ironforge%20Incursion</loc></url>
 <url><loc>https://wowforeverpath.com/zh-TW/quests/Open%20the%20Maw</loc></url>
@@ -11610,13 +11713,16 @@
 <url><loc>https://wowforeverpath.com/zh-TW/quests/Seeking%20Caitlin</loc></url>
 <url><loc>https://wowforeverpath.com/zh-TW/quests/Seeking%20Refuge</loc></url>
 <url><loc>https://wowforeverpath.com/zh-TW/quests/Shrewd%20Negotiations</loc></url>
+<url><loc>https://wowforeverpath.com/zh-TW/quests/Silver%20of%20the%20Waves</loc></url>
 <url><loc>https://wowforeverpath.com/zh-TW/quests/Songblade%20Search</loc></url>
 <url><loc>https://wowforeverpath.com/zh-TW/quests/Source%20of%20Power</loc></url>
 <url><loc>https://wowforeverpath.com/zh-TW/quests/Starving%20Arcane</loc></url>
 <url><loc>https://wowforeverpath.com/zh-TW/quests/State%20Secrets%20(Alliance)</loc></url>
 <url><loc>https://wowforeverpath.com/zh-TW/quests/State%20Secrets%20(Horde)</loc></url>
+<url><loc>https://wowforeverpath.com/zh-TW/quests/State%20Secrets%20(Neutral)</loc></url>
 <url><loc>https://wowforeverpath.com/zh-TW/quests/Sticks%20and%20Bones%20(Forever)</loc></url>
 <url><loc>https://wowforeverpath.com/zh-TW/quests/Stolen%20Enchanting%20Supplies%20(quest)</loc></url>
+<url><loc>https://wowforeverpath.com/zh-TW/quests/Stop%20the%20Spread%20(Forever)</loc></url>
 <url><loc>https://wowforeverpath.com/zh-TW/quests/Stormwind's%20High%20Order</loc></url>
 <url><loc>https://wowforeverpath.com/zh-TW/quests/Testing%20the%20Wells</loc></url>
 <url><loc>https://wowforeverpath.com/zh-TW/quests/That%20Shadowvale%20Green%20Elixir</loc></url>
@@ -11636,7 +11742,9 @@
 <url><loc>https://wowforeverpath.com/zh-TW/quests/The%20Gift%20of%20Skysight</loc></url>
 <url><loc>https://wowforeverpath.com/zh-TW/quests/The%20Grave%20Knight</loc></url>
 <url><loc>https://wowforeverpath.com/zh-TW/quests/The%20Great%20Outdoors%20(Forever)</loc></url>
+<url><loc>https://wowforeverpath.com/zh-TW/quests/The%20Great%20Tree%20Provides</loc></url>
 <url><loc>https://wowforeverpath.com/zh-TW/quests/The%20Hermit%20Tanner</loc></url>
+<url><loc>https://wowforeverpath.com/zh-TW/quests/The%20Lost%20Runner</loc></url>
 <url><loc>https://wowforeverpath.com/zh-TW/quests/The%20Man%20in%20the%20Iron%20Chains</loc></url>
 <url><loc>https://wowforeverpath.com/zh-TW/quests/The%20Monster%20Surfaces</loc></url>
 <url><loc>https://wowforeverpath.com/zh-TW/quests/The%20Moonsilver%20Blade</loc></url>
