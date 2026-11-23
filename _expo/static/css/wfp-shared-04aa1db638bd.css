@@ -1666,13 +1666,13 @@ input::-webkit-search-cancel-button,input::-webkit-search-decoration,input::-web
 @keyframes r-imtty0{0%{opacity:0;}100%{opacity:1;}}
 @keyframes r-q67da2{0%{transform:translateX(-100%);}100%{transform:translateX(400%);}}
 @keyframes r-t2lo5v{0%{opacity:1;}100%{opacity:0;}}
-@font-face{font-family:"Cinzel_600SemiBold";src:url("/assets/_____node_modules/@expo-google-fonts/cinzel/600SemiBold/Cinzel_600SemiBold.3b46e60e610c5f493298d3815ad999d4.ttf");font-display:auto}
-@font-face{font-family:"Cinzel_700Bold";src:url("/assets/_____node_modules/@expo-google-fonts/cinzel/700Bold/Cinzel_700Bold.7fa8033ca19d3d9dea10e6f019712228.ttf");font-display:auto}
-@font-face{font-family:"AlegreyaSC_500Medium";src:url("/assets/_____node_modules/@expo-google-fonts/alegreya-sc/500Medium/AlegreyaSC_500Medium.c3dd25211c94ffb922eff27b26a5f4e7.ttf");font-display:auto}
-@font-face{font-family:"AlegreyaSC_700Bold";src:url("/assets/_____node_modules/@expo-google-fonts/alegreya-sc/700Bold/AlegreyaSC_700Bold.08188bf040053a1bb64354aee9a8c707.ttf");font-display:auto}
-@font-face{font-family:"AlegreyaSans_400Regular";src:url("/assets/_____node_modules/@expo-google-fonts/alegreya-sans/400Regular/AlegreyaSans_400Regular.be771a748a908866b8ed7849f169269a.ttf");font-display:auto}
-@font-face{font-family:"AlegreyaSans_500Medium";src:url("/assets/_____node_modules/@expo-google-fonts/alegreya-sans/500Medium/AlegreyaSans_500Medium.616f53fdd19a95517555abdf2d5d6d94.ttf");font-display:auto}
-@font-face{font-family:"AlegreyaSans_700Bold";src:url("/assets/_____node_modules/@expo-google-fonts/alegreya-sans/700Bold/AlegreyaSans_700Bold.7e6211a9c951c7499f305abf2d7fa69e.ttf");font-display:auto}
+@font-face{font-family:"Cinzel_600SemiBold";src:url("/assets/__node_modules/@expo-google-fonts/cinzel/600SemiBold/Cinzel_600SemiBold.3b46e60e610c5f493298d3815ad999d4.ttf");font-display:auto}
+@font-face{font-family:"Cinzel_700Bold";src:url("/assets/__node_modules/@expo-google-fonts/cinzel/700Bold/Cinzel_700Bold.7fa8033ca19d3d9dea10e6f019712228.ttf");font-display:auto}
+@font-face{font-family:"AlegreyaSC_500Medium";src:url("/assets/__node_modules/@expo-google-fonts/alegreya-sc/500Medium/AlegreyaSC_500Medium.c3dd25211c94ffb922eff27b26a5f4e7.ttf");font-display:auto}
+@font-face{font-family:"AlegreyaSC_700Bold";src:url("/assets/__node_modules/@expo-google-fonts/alegreya-sc/700Bold/AlegreyaSC_700Bold.08188bf040053a1bb64354aee9a8c707.ttf");font-display:auto}
+@font-face{font-family:"AlegreyaSans_400Regular";src:url("/assets/__node_modules/@expo-google-fonts/alegreya-sans/400Regular/AlegreyaSans_400Regular.be771a748a908866b8ed7849f169269a.ttf");font-display:auto}
+@font-face{font-family:"AlegreyaSans_500Medium";src:url("/assets/__node_modules/@expo-google-fonts/alegreya-sans/500Medium/AlegreyaSans_500Medium.616f53fdd19a95517555abdf2d5d6d94.ttf");font-display:auto}
+@font-face{font-family:"AlegreyaSans_700Bold";src:url("/assets/__node_modules/@expo-google-fonts/alegreya-sans/700Bold/AlegreyaSans_700Bold.7e6211a9c951c7499f305abf2d7fa69e.ttf");font-display:auto}
 
 html[data-race-event="alliance"]{--race-core:#fff1c4;--race-mid:#7fb6ff;--race-outer:rgba(59, 130, 246, 0.85)}
 html[data-race-event="horde"]{--race-core:#ffd9a8;--race-mid:#e0662f;--race-outer:rgba(179, 38, 30, 0.88)}
